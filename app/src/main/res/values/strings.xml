@@ -13,4 +13,44 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+
+    //Sevgi sherlari
+    <string-array name="sevgi_lyrics">
+        <item>
+            Sevdim degan so`zingni asra,
+            \nMeni kutgan ko`zingni asra,
+\nSeni topgum, yoningga borgum,\nMen uchun ham o`zingni asra.
+            \n
+\nAsra, dilda muxabbatingni,
+\nAsra menga ko`ngil xatingni,
+\nMenga atab hamma gapingni,
+\nMen uchun ham o`zingni asra.
+\n
+\nKo`ksingdan otilsa ming faryod,
+\nSeni ko`p yig`latsa bu hayot,
+\nSabr qil, topmasang bir najot,
+\nMen uchun ham o`zingni asra.
+\n
+\nSinab bir bor va`dalar kuchin,
+\nDildan olmay xatolar o`chin,
+\nO`rtada sof sevgimiz uchun,
+\nMen uchun ham o`zingni asra.
+\n
+\nUzun yillar kitobin yopgum,
+\nBir kun yig`lab izlaring o`pgum,
+\nBir kun seni baribir topgum,
+\nMen uchun ham o`zingni asra.
+\n
+\nYurakka in qurmayin qayg`u,
+\nHayotingga solmagin og`u,
+\nSendan bitta iltimosim shu,
+\nMen uchun ham o`zingni asra.
+\n
+\nTo`ldir jonim, qalbingni nurdan,
+\nGo`zal bo`lsin tunlaring kundan,
+\nSevsang agar Ahadni chindan,
+\nMen uchun ham o`zingni asra.
+</item>
+        <item>Sevgi 2</item>
+    </string-array>
 </resources>
