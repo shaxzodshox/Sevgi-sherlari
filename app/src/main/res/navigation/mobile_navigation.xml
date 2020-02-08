@@ -13,9 +13,9 @@
 
     <fragment
         android:id="@+id/nav_favorite"
-        android:name="com.android.sevgisherlari.ui.gallery.GalleryFragment"
+        android:name="com.android.sevgisherlari.ui.favorite.FavoriteFragment"
         android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        tools:layout="@layout/fragment_favorite" />
 
     <fragment
         android:id="@+id/nav_info"

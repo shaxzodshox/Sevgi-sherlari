@@ -29,7 +29,7 @@
                     android:id="@+id/icon_list"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/ic_keyboard_arrow_right_black_24dp"
+                    android:src="@drawable/arrow"
                     />
 
                 <TextView

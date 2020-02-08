@@ -64,9 +64,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.action_rate:
                 Toast.makeText(MainActivity.this,"RATE",Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.action_share:
-                Toast.makeText(MainActivity.this,"SHARE",Toast.LENGTH_SHORT).show();
-                break;
         }
         return super.onOptionsItemSelected(item);
     }
