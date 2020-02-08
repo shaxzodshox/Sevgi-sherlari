@@ -5,14 +5,15 @@
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_rate">Baholash</string>
+    <string name="action_share">share</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_send">Send</string>
+    <string name="menu_main">Asosiy sahifa</string>
+    <string name="menu_gallery">Tanlanganlar</string>
+    <string name="menu_info">Dastur haqida</string>
+    <string name="menu_apps">Boshqa dasturlarimiz</string>
+    <string name="menu_share">Dasturni yuborish</string>
+    <string name="menu_rate">Baholash</string>
 
     //Sevgi sherlari
     <string-array name="sevgi_lyrics">
@@ -51,6 +52,1044 @@
 \nSevsang agar Ahadni chindan,
 \nMen uchun ham o`zingni asra.
 </item>
-        <item>Sevgi 2</item>
+        <item>
+            Sen yo’q sensizlikka o’rganib qoldim,
+\nUngacha ayriliq o’tida yondim.
+\nHammadan, hattoki o’zimdan toldim,
+\nEndi sensizlikka o’rganib qoldim.
+\n
+\nLek hamon yolg’izman yo’qsan yonimda,
+\nMisli bir azobsan yarim jonimda.
+\nEndi iloji yo’q qaytish yoninga,
+\nSen yo’q sensizlikka o’rganib qoldim.
+\n
+\nEndi faqat va’dalaring qiynar meni,
+\nSog’inaman har erta tong o’ylab seni.
+\nTashlab ketding, o’ylamading jonim meni,
+\nYolg’izginam, sensizlikka o’rganib qoldim.
+\n
+\nSeni jonim, dunyolarga alishmasdim,
+\nSendan boshqa go’zallarni hech ko’rmasdim.
+\nO’zga bilan ketishingni men bilmasdim,
+\nSen yo’q mana sensizlikka o’rganib qoldim.
+\n
+\nJonim, seni baxtga to’lib sevgandim,
+\nAllox guvox chin dilimdan sevgandim.
+\nSevgimizni qadriga yetasan deb bilgandim,
+\nEndi kechdir, sensizlikka o’rganib qoldim.
+\n
+\nMana bugun ajraldik biz ikki tomon,
+\nKo’rolmasdan sog’inaman seni yomon.
+\nEndi senga qaytolmayman sevsamda hamon,
+\nSen yo’q sensizlikka o’rganib qoldim.
+\n
+\nYurak ham yolg’izlikka ko’na boshladi,
+\nMenga aytgan so’zlaring ko’nglim g’ashladi.
+\nMendan ketmoqlikni ko’ngling hushladi,
+\nMayli ketgin, sensizlikka o’ganib qoldim.
+        </item>
+
+        <item>
+            Tunlar uxlay olmay o’ylayman seni,
+\nKunduz uchratolmay o’ylayman seni.
+\nBarcha she’rlarimda so’ylayman seni
+\nSenchi, sevgim, eslaysanmi hech!
+\n
+\nHayol og’ushi tinch qo’ymaydi inim
+\nChaqirsa eshitmay qolaman singlim.
+\nSeni unutolmay bezovta ko’nglim
+\nSenchi, sevgim, izlaysanmi hech!
+\n
+\nBalki bu hayotning menga sinovi
+\nBalki xatodir — bu qilgan tanlovim.
+\nKimlardir buning chun sochar olovin
+\nSenchi, sevgim, yonganmisan hech!
+            \n
+\nSevdimu sevilmay, bo’ldim ovora
+\nMasofamiz uzoqlashib borar tobora
+\nSeni unutolmay yurak ming pora
+\nSenchi, sevgim, suyganmisan hech!
+\n
+\nNega? Aytgin sen mendan yiroq
+\nNechun meni qiynaydi firoq.
+\nSevamanu, bilmayman biroq
+\nSenchi, sevgim, sevganmisan hech!
+\n
+\nBo’ldi! Bu mening qat’iy qarorim
+\nJim chidab yurishdan bitdi madorim
+\nSenikidir bilgin borlig’im, borim
+\nSenku, sevgim, bo’lajak yorim!!!
+        </item>
+
+        <item>
+            Seni kutdim, kutdim ko’p uzoq,
+\nYo’llaringga ko’zlarim mushtoq
+\nKelishingdan aylabon ogoh
+\nBevafo yor nechun kelmading?
+\n
+\nYuragimni qilding ming pora
+\nNechun ko’ngling bo’ldi qop-qora
+\nTopildimi sevgiga chora
+\nBevafo yor nechun kelmading?
+\n
+\nVa’dangga sen vafo qilmading
+\nSenga bo’lgan sevgim bilmading
+\nYuragimni yondirib o’tda
+\nBevafo yor nechun kelmading?
+\n
+\nYuragingda bormi o’zga yor
+\nU bo’larmi senga vafodor?
+\nQora tunlar o’tdiku bedor
+\nBevafo yor nechun kelmading?
+\n
+\nKutib, kutib toldi ko’zlarim
+\nArmon bo’lib qoldi soz’larim
+\nPinhon yotar dilda bo’zlarim
+\nBevafo yor nechun kelmading?
+</item>
+
+        <item>
+            Saodat soqmogin izlayin uzoq,
+\nSen baxting yo’lidan toymasang bo’ldi.
+\nMenga ko’p ko’rindi sevgidan qiynoq,
+\nSen ishqning sururin qo’ymasang bo’ldi.
+\n
+\nKo’zingga boqqanda ko’zlarim kulsa,
+\nYurak diydoringdan sevinib ursa,
+\nSevinching chehramdan akslanib tursa,
+\nMeni baxtli deya o’ylasang bo’ldi.
+\n
+\nSarhadlardan qo’rqib yashasam nima?
+\nFaqat g’amdan luqma oshasam nima?
+\nDunyoga dardimni toshasam nima?
+\nSen faqat quvonchdan so’ylasang bo’ldi.
+\n
+\nBahorim ortidan ergashganda kuz,
+\nKuzning so’zlariga berkinsa afsus,
+\nSevgim yuragimga qilsa tajovuz,
+\nSen meni do’stlik deb siylasang bo’ldi.
+\n
+\nBulutlar ortiga berkinsa oftob,
+\nBugun salqin deya o’ylasang bo’ldi.
+\nYuzimga do’stlikdan ilingan niqob,
+\nAshaddiy yurakni ko’rmasang bo’ldi.
+        </item>
+
+        <item>
+            Borliqni jumbushka keltirsang nima,
+\nSengamas do’stlikka ko’nglim ochardim.
+\nTutqunlik odati axir senga xos,
+\nErkinlik dardida sendan qochardim.
+\n
+\nMuhabbat ayt kimni baxtiyor qilding,
+\nTopolsam u haqda doston yozardim.
+\nKimnidir o’ldirding, hokisor qilding,
+\nAgar shunday bo’lmasa darding olardim.
+\n
+\nYetar bas, seni hech to’xtatmas kishi,
+\nManziling be makon, mehrsiz tuyg’u.
+\nHar fasl yashnaysan: bahor, yoz, qishi,
+\nKimgadir shodliksan, kim uchun qayg’u…
+        </item>
+
+        <item>
+            Salom qalbim malikasi,
+        \nYarim yuragimni egasi
+        \nSanga etar bu gaplarni
+        \nZulmatlar shaxzodasi.
+        \n
+        \nAxvolimni bilib turip
+        \nÒtasan kulib kulib.
+        \nYolģonlaring bilib turip
+        \nSevaveraman kulib kulib.
+        \n
+        \nYuragimni qilding intizor
+        \nBunchalar bolmasa baģring tor
+        \nYolaringda kuttirding zor
+        \nYomon kuttirding zarnigor
+        \n
+        \nSevasanmi òzi mani
+        \nYoki umuman kongling yoqmi
+        \nKuttirasan xar kun mani
+        \nYo mandan qasting bormi?
+        \n
+        \nSenga aytar sonngi sozim
+        \nBaxtli bolgin gul yuzim
+        \nLekin unutvormagin
+        \nSanga aytgan gaplarim
+        </item>
+
+        <item>
+            Orzularim armon bo\'lmasin,
+\nAyriliq dardini hech kim bilmasin,
+\nO\'tkinchi dunyoda hammamiz mehmon,
+\nInson insondan nafrati qolmasin.
+\n
+\nBu dunyo o\'tgunchi og\'ir yuragim,
+\nMenga baxt va ishonch keragim,
+\nBu dunyoda yagona bir tilagim,
+\nInson insondan nafrat qolmasin.
+\n
+\nKetgim kelar hech kimsasiz yerlarga,
+\nDardim o\'tirip sochgim keladi,
+\nMenga armon bo\'lib qolgan yillarga,
+\nBarchasini unutib kulgim keladi.
+        </item>
+
+        <item>
+            Ketma endi meni baxtimdan,
+\nSeni sevib qolganim uchun.
+\nKetma endi meni baxtimdan,
+\nSeni sevib bilganim uchun.
+\n
+\nOrzularim sen bilan visol,
+\nYuragimdek sevmoqlik misol,
+\nSenga ochiq uzun katta yol,
+\nKetma endi meni baxtimdan.
+        </item>
+        <item>
+            Bizni ayirgan g\'ururmi?
+\nYo o\'rinsiz qarormi?
+\nIkkimiz ikki taraf,
+\nAyriliqdan ayt ne naf.
+            \n
+\nYolg\'izlikka ko’nikdik,
+\nQara tezda unutdik.
+\nTelefonlar xamon jim,
+\nAyt aybdor o\'zi kim.
+            \n
+\nYashayapmiz sevgisiz,
+\nMa\'nosi yoq tuyg\'usiz.
+\nO\'rtamizda katta jar,
+\nSevgimizni yig\'latar.
+            \n
+\nArzimas bir xatodan,
+\nTo\'yib ketdik jazodan.
+\nMehr asta so\'nmoqda,
+\nAlam tinmay yonmoqda.
+            \n
+\nDillar ojiz qanchalar,
+\nAzob tig\'lab parchalar.
+\nNaxot begona bo\'ldik,
+\nYolg\'on orzuga to\'ldik.
+\n
+\nTaqdir, qismat deydik ham,
+\nSovug\'ini yedik ham.
+\nXijron azobin tuyib,
+\nYuribmiz ishqda kuyib.
+        </item>
+
+        <item>
+            Go\'zallar bor sevaman degan,
+\nKami borday ko\'nglim to\'lmaydi.
+\nKimga yolg\'on kimga chin sevgi,
+\nIkki martta sevib bo\'lmaydi.
+\n
+\nOhu misol ko\'zlardan kechib,
+\nQalbga yaqin so\'zlardan kechib,
+\nArmon bo\'lgan sevgidan qochib,
+\nIkki martta sevib bo\'lmaydi.
+\n
+\nBoshing toshga urib ko\'r mayli,
+\nHarakating foyda bermaydi.
+\nHayolingda o\'sha bir layli,
+\nIkki martta sevib bo\'lmaydi.
+\n
+\nO\'zing kulib yurganing bilan,
+\nQalbing aslo yayrab kulmaydi.
+\nYurak urib turgani bilan,
+\nIkki martta sevib bo\'lmaydi.
+\n
+\nGarchi sevsang o\'yla o\'zingni,
+\nIlk sevgida vafo bo\'lmaydi.
+\nUnutmagin Qodir so\'zini,
+\nIkki martta sevib bo\'lmaydi.
+        </item>
+
+        <item>
+            Kuta-kuta tunni erkalab,
+\nTonglar otdi sizsiz xaftalab.
+\nGuvox oy xam sherik dardimga,
+\nYomgirlar xam yiglar qadrimga.
+\nBegim ketmang yonimda qoling,
+\nNur taratgan quyoshim boling.
+\n
+\nSizdan boshga kerakmas menga,
+\nBir tilagim aylansin chinga.
+\nBor mexringiz bersangiz bas,
+\nXech kim bizni ayirolmas.
+\nBegim ketmang yonimda qoling,
+\nNur taratgan quyoshim boling.
+\n
+\nYolgizlikdan toydim bilsangiz,
+\nKoshki menga quloq solsangiz.
+\nGul boglarim kuzlardek xazon,
+\nQalbim rashki aylaydi gumon.
+\nBegim ketmang yonimda qoling,
+\nNur taratgan quyoshim boling.
+\n
+\nBalkim oxim yetib bormayin,
+\nIshq baxtini otar kormayin.
+\nАzob tiglab kuymas xolimga,
+\nKoz tegdimi taqdir yolimga.
+\nBegim ketmang yonimda qoling,
+\nNur taratgan quyoshim boling.
+\n
+\nSorang jonim beray oylamay,
+\nMajnuntolga boyin boylamay.
+\nToki yurak urarkan zarba,
+\nHajringizda yashayman telba.
+\nBegim ketmang yonimda qoling,
+\nNur taratgan quyoshim boling.
+        </item>
+
+        <item>
+            Oh meni farishtam,ko\'zlari qoram,
+\nNigohi rom etgan,lablari g\'uncham,
+\nBarcha qizdan a\'lo,yakka yagonam,
+\nSeni sevadurman,seni sevaman!
+\n
+\nChiroylik ko\'zlaring,go\'zaldur yuzing,
+\nNigohing rom etdi,rom etti ko\'zing,
+\nYagona keragim,keragim o\'zing,
+\nMen seni sevaman,seni sevaman !
+\n
+\nEy go\'zal farishtam kelaqol,gulim,
+\nO\'zgaga bermasman,men seni hurim,
+\nO\'zing bo\'l malikam,yonimda yorim,
+\nMen seni sevaman,Seni sevaman !
+\n
+\nVafo qil go\'zalim,vafodor bo\'lay,
+\nUmrim so\'ngigacha,kel bahtli qilay,
+\nYonimda bo\'l doim,yoningda bo\'lay,
+\nSenga devonaman,Seni sevaman !
+\n
+\nMening bittaginam,yakka yagonam,
+\nFaqat sen uchundur,qalbdagi honam,
+\nAsragan gulimsan,ey mening lolam,
+\nMen seni sevaman,seni sevaman!
+\n
+\nSening Majnuningman,laylim deb atay,
+\nMening bittaginam,jonim deb atay,
+\nHech qizga aytmagan so\'zimni aytay,
+\nMen seni sevaman,seni sevaman!
+        </item>
+
+        <item>
+            Minglab qo\'shiq, ming bitta she\'rlar,
+\nYodga solar sevgimni har tun.
+\nHamma seni arzimas derlar,
+\nSavolim bor ayrildik nechun?
+\n
+\nSevmadingmi meni nahotki,
+\nNega berding baxtlardan uchqun?
+\nKetasan! Mayli ket, shunchaki,
+\nSavolim bor ayrildik nechun?
+\n
+\nOrzulari osmon edik biz,
+\nSira bo\'lmay sevgidan mahzun.
+\nBugun ko\'r, begona ikkimiz,
+\nSavolim bor ayrildik nechun?
+\n
+\nMayli kutay javobni uzoq,
+\nAytgin deya sanamayman kun.
+\nFaqat dema bo\'lding o\'yinchoq,
+\nSavolim bor ayrildik nechun?
+\n
+\nJim turasan ko\'zlaringda yosh,
+\nJimman men ham, nega, noma\'lum.
+\nSiringni ayt, bo\'laman darddosh,
+\nAyrildikmi HIYONAT uchun?
+        </item>
+
+        <item>
+            Mendan o\'tdi asli xatolik,
+\nSizga bir so\'z aytgim keladi.
+\nBoshim egib uzurim aytib,
+\nYoningizga qaytgim keladi.
+\n
+\nXar kun yig\'lab eslayman sizni,
+\nXar kun ingrab qo\'msayman sizni,
+\nTushlarimdan izlayman sizni,
+\nYoningizga qaytgim keladi.
+\n
+\nBiz tufayli ayrodur yo\'llar,
+\nBiz tufayli ayrodur dillar,
+\nYuzlarimdan oqmoqda sellar,
+\nYoningizga qaytgim keladi.
+\n
+\nKechirsangiz kechira qolingda,
+\nXato bo\'lmas aytingchi kimda,
+\nO\'jarlik xam evi bilanda,
+\nYoningizga qaytgim keladi.
+\n
+\nXotiralar qoldi bir qisim,
+\nOx yuragim ox tilim-tilim,
+\nOg\'riyapti manabu yerim,
+\nYoningizga qaytgim keladi.
+        </item>
+
+        <item>
+            Kuyib bo\'ldi yuragim,
+\nSo\'ndi orzu tilagim.
+\nKerak bo\'lmay qoldingku,
+\nEndi menga keragim.
+\n
+\nO\'zing shuni xoxlading,
+\nBegonani izlading,
+\nShirin bahtingdan kechib,
+\nBoyligini ko\'zlading.
+\n
+\nGulim mayli ketaver,
+\nSenga qaytgin demayman,
+\nKo\'rinmagin ko\'zimga,
+\nEndi xech kechirmayman.
+\n
+\nMayli birga bo\'laver,
+\nO\'sha bilan yuraver,
+\nO\'rzudagi hayoting,
+\nBirgalashib quraver.
+\n
+\nSog\'inmay qo\'ydim sira,
+\nMenga bo\'lding begona.
+\nBahtliman hozir qara,
+\nTopdim men ham yagonam.
+\n
+\nGulim mayli ketaver,
+\nSenga qaytgin demayman.
+\nKo\'rinmagin ko\'zimga,
+\nEndi xech kechirmayman.
+        </item>
+
+        <item>
+            Yillar o\'tib oradan,
+\nYana seni uchratdim.
+\nChiqargandim yodimdan,
+\nYana qalbim yig\'latdim.
+\n
+\nYoningda begona bor,
+\nO\'tayapsan yonimdan,
+\nBu sevgining azobi,
+\nO\'tib ketdi jonimdan.
+\n
+\nNega seni unutganda,
+\nYana ko\'raveraman.
+\nMendan ketgan bo\'lsang ham,
+\nNega sevaveraman?!
+\n
+\nBedor o\'tar yana tun,
+\nShunday bo\'ladi har kun.
+\nArmon qolgan yurakda,
+\nSeni sevganim uchun.
+\n
+\nMehrim senga kammidi,
+\nTanlading begonani.
+\nOh bunchalar qiynading,
+\nOshiq shoir bolani.
+\n
+\nNega seni unutganda,
+\nYana ko\'raveraman.
+\nMendan ketgan bo\'lsang ham,
+\nNega sevaveraman?!
+        </item>
+
+        <item>
+            Bahordan ham qoldi ko\'nglim,
+\nSevib og\'ridi bu dilim.
+\nEndi boshqa taqdir yo\'lim,
+\nMen sevgan qiz endi kelin.
+\n
+\nSevgimizga qoydi nuqta
+\nBo\'lgan ishqi yolg\'on soxta,
+\nQoldirgancha ketti dog\'da
+\nMen sevgan qiz endi kelin.
+\n
+\nQoldi qalbi men vayrona,
+\nKozlarimdan yoshlar toma.
+\nQo\'lda to\'yga taklifnoma,
+\nMen sevgan qiz endi kelin.
+\n
+\nYor-yor aytib olib ketdi,
+\nYurak bag\'ri to\'lib ketdi.
+\nSevgi xafa bo\'lib ketdi,
+\nMen sevgan qiz endi kelin.
+\n
+\nYasholmayman xech ham sira,
+\nO\'lim afzal undan ko\'ra.
+\nEzar o\'tmishdan xotira,
+\nMen sevgan qiz endi kelin.
+\n
+\nOzor berdim o\'z-o\'zimga,
+\nAzob tiqilar bo\'g\'zimga.
+\nYetolmadim yulduzimga,
+\nMen sevgan qiz endi kelin.
+\n
+\nEndi sevmayman xech kimni,
+\nShuncha tirnab yuragimni.
+\nSizga aytayin dardimni,
+\nMen sevgan qiz endi kelin.
+\n
+\nBahordan ham qoldi ko\'nglim,
+\nSevib og\'ridi bu dilim.
+\nEndi boshqa taqdir yo\'lim,
+\nMen sevgan qiz endi kelin.
+        </item>
+
+        <item>
+            O\'zgalar ne desa derlar,
+\nKim kelajak g\'amin yerlar.
+\nOtang ko\'ngli boyni derlar,
+\nBizni taqdir birlashtirsin.
+\n
+\nUrunsam xam befoydadur,
+\nLekin ko\'nglim bir sandadur.
+\nOshig\'ing ojiz bandadur,
+\nBizni taqdir birlashtirsin.
+\n
+\nChin oshiqlarga baxtga yetar,
+\nMatonatli sabr etar,
+\nXudo baxtli juftlik etar,
+\nBizni taqdir birlashtirsin.
+\n
+\nErkam sira to\'kma ko\'z yosh,
+\nZulmat uzra porlar quyosh.
+\nGo\'zal sabr, faqat bardosh,
+\nBizni taqdir birlashtirsin.
+        </item>
+
+        <item>
+Unutdim alamning dardli kuyini,
+\nLek ko\'ngil tubida qoldi jarohat.
+\nAyriliq qismatda bitilgan bari,
+\nNe sabab kuyunib yig\'lar muhabbat.
+\n
+\nYig\'lama muhabbat yurakni ezib,
+\nBaxtingdan izlama bevafo yorni.
+\nBog\'laringda yana gullar gullaydi,
+\nBag\'ringga bosarsan erka bahorni.
+\n
+\nTuyg\'ular ergashib seni ortingdan,
+\nOg\'rig\'i avjlanib qiynoqqa solar.
+\nMehringga talpina ko\'zlar jovdirab,
+\nToma-toma yoshlarim daryoga to\'lar.
+        </item>
+        <item>
+        Seni ilk bor uchratganimda,
+\nMeniki bo\'lshing orzu qilgandim.
+\nO\'zim bilmay tez topganimda,
+\nTaqdir deya hayron qolgandim.
+\n
+\nBir ko\'rishda gado aylading,
+\nIshqin poyida hokisor qaddim.
+\nQaysar yurakni bexos boylading,
+\nYoningga bormoqqa sig\'madi haddim.
+\n
+\nQarshingda ojizman qanchalik qara,
+\nTillarim aylanmas bir so\'z aytmoqqa.
+\nQayrilib holimni chunsanding zora,
+\nBunchalik kuymasdim dardim aytmoqqa.
+    </item>
+
+        <item>
+Sizni ko\'rmay yolg\'iz yashashga,
+\nArmon bilan birga yig\'lashga,
+\nBu sinovga o\'zim kurashga,
+\nMen ko\'nikdim oxir chidashga.
+\n
+\nJimsiz sokin tunday jonginam,
+\nMendan kechib bo\'lmadingiz kam,
+\nMoro bo\'sin hushro\'y gul sanam.
+\nYarashibdi yangi yor biram.
+\n
+\nIlgari siz meni sevardiz,
+\nIshq o\'tida yonib,kuyardiz,
+\nKo\'rishganda ko\'nglim olardiz,
+\nBilmam rostmi rosa avrardiz.
+\n
+\nVafosi yo\'q soxta dilkashdan,
+\nBoqi beg\'am yolg\'on dardkashdan,
+\nTelba majnun tul jafokashdan,
+\nOx adashdim devon beboshdan.
+        </item>
+
+        <item>
+            Atirgulim lovullab yonsa,
+\nIchim g\'ashga to\'ladi birdan.
+\nChiroyini atrofga sochsa,
+\nRashk olovi qo\'zg\'alar shu dam.
+\n
+\nAtirgulim tovlanib buncha,
+\nOshiqlarin qiynaysan qancha.
+\n
+\nSenga tutdim qalbim to\'rini,
+\nGulllar ichra yoganam dedim.
+\nAyt, tonmasdan dardin borini,
+\nHusni tengsiz malikam dedim.
+\n
+\nAtirgulim tovlanib buncha,
+\nOshiqlarin qiynaysan qancha.
+\n
+\nTikonlarin sanchma quchganda,
+\nYetar ozor olishma qasdlab.
+\nIforingga nigoh tushganda,
+\nTo\'yib hidlay nafasim rostlab.
+\n
+\nAtirgulim tovlanib buncha,
+\nOshiqlarin qiynaysan qancha.
+\n
+\nUzib olsa begona kimsa,
+\nSiniq shohla qayga borasan.
+\nSoxta mehr,yolg\'onga ko\'msa,
+\nMehrim eslab tushda ko\'rasan.
+\n
+\nAtirgulim tovlanib buncha,
+\nOshiqlarin qiynaysan qancha.
+        </item>
+
+        <item>
+            Qorong\'u tun meni yutib,
+\nO\'z domiga tortib qiynar.
+\nYarim yurak baxtni kutib,
+\nYolg\'iz dilni azob tirnar.
+\n
+\nOjis qalbim yolg\'onlardan,
+\nTo\'yib-to\'yib qonlar yutdi.
+\nSoxta sevgi, yomonlardan,
+\nNafrat kelib, ishonch ketdi.
+\n
+\nSu\'ratingga boqib uzoq,
+\nAlamdan jim termulaman.
+\nAvval avrab qo\'ydin tuzoq,
+\nAqlim yetmay lol qolaman.
+\n
+\nYana qayg\'u, dardli iztirob,
+\nAylanadi tinmayin takror.
+\nEy yuragim, hammasi sarob,
+\nBag\'rin tilib chekmagin ozor.
+
+        </item>
+
+        <item>
+            Sensizlikka chidab yashadim,
+\nTog\'lar xayron bardoshlarimga,
+\nO\'ylayverib oxir charchadim,
+\nArzimaysan ko\'z yoshlarimga,
+\n
+\nXiyonatdan bezgan yurak,
+\nKo\'nglim sevib bo\'lgan jonsarak,
+\nOxirigi yo\'l unutmoq kerak,
+\nArzimaysan ko\'z yoshlarimga,
+\n
+\nDildan aybim o\'chiring dema,
+\nGunoxlarim kechiring dema,
+\nEndi ortiq g\'amimni yema,
+\nArzimaysan ko\'z yoshlarimga,
+\n
+\nEssiz shuncha bedor tunlarim,
+\nG\'am ichida o\'tgan kunlarim,
+\nUvvol senga sof tuyg\'ularim,
+\nArzimaysan ko\'z yoshlarimga,
+\n
+\nYurakkinam og\'riydi yomon,
+\nNafrat to\'ldi qalbimga ishon,
+\nYengilmayman endi xech qachon,
+\nArzimaysan ko\'z yoshlarimga,
+\n
+\nTo\'g\'ri aytgan ekan do\'stlarim,
+\nOchildiku endi ko\'zlarim,
+\nOshiq Axad so\'ngi so\'zlarim,
+\nArzimaysan ko\'z yoshlarimga.
+        </item>
+
+        <item>
+            Sensizlik og\'ritdi Mening qalbimni,
+\nYonimda bo\'lsangu dardlarim aytsam,
+\nSeni ko\'p qiynadim kechir rashqimdan,
+\nYana Sevasanmi yoninga qaytsam..
+\n
+\nKo\'z yoshlarimni to\'kib aldadim,
+\nKo\'p shirin so\'zlaringa bugun bo\'ldim zor,
+\nEndi hech bermayman ozor,
+\nYana Sevasanmi yoninga qaytsam..
+\n
+\nSuratinga boqib surarman hayol,
+\nTushlarimga kirib kel deb aytaqol,
+\nSensiz yasholmayman mayli Jonim ol,
+\nYana Sevasanmi
+\n
+\nQadringa yetmadim kechirgin Meni,
+\nSensiz yashamoqdan yo\'q biror mani,
+\nOrtiq sabrim yoqdir Sog\'indim Seni,
+\nYana Sevasanmi yoninga qaytsam..
+\n
+\nFaqat Sen ekansan qalbim egasi,
+\nYuragimni quvonchi yolg\'iz erkasi,
+\nKechir og\'ir ekan Hijron jafosi,
+\nYana Sevasanmi yoninga qaytsam.
+        </item>
+
+        <item>
+            Gulzorlar ichida tanho ketarman,
+\nOrzular og\'ushida o\'yga tolarman.
+\nShirin damlarimni yodga olarman,
+\nTaftingni his etib, mudom ketarman.
+\n
+\nOsmonni egallab bulut qoplardi,
+\nMarjondek donalab, yomg\'ir yog\'ardi.
+\nOlisdan yoqimli kuylar yangrardi,
+\nTuyg\'ular xayolni olib qochardi.
+\n
+\nNogahon uchrashsa, qizarar yuzlar,
+\nTilimiz ojizdir, so\'zlashar dillar,
+\nYuraklar yurakka bog\'lanib borar,
+\nIkki qalb otashi alanga olar.
+\n
+\nYomg\'irlar maydalab hamon yog\'ardi,
+\nKechamiz tugallab, tonglar otardi,
+\nMuhabbat qissasi tugab borardi,
+\nAyriliqni sezgan dil unsiz yig\'lardi.
+\n
+\nQaniydi, o\'sha kun kelsaydi qaytib,
+\nKechardim hurliqo qizlardan o\'tib.
+\nPoyingga yiqilib, izlaring o\'pib,
+\nJonimni berardim qo\'lingga tutiib.
+        </item>
+
+        <item>
+            Muhabbat dog\'ida kuygandim qancha,
+\nYana ishq savdosi tushdi boshimga.
+\nQayg\'udan yuragim bo\'lsa ham parcha,
+\nXolimni so\'ramadilar kelib qoshimga.
+\n
+\nDunyoda muhabbat bormikan asli?
+\nOrzular og\'ushiga yetmadi qo\'lim.
+\nIzlagan yorimning qaydakan vasli?
+\nDilginam iztirobga to\'la limo-lim.
+\n
+\nMajnuntol bo\'ylarin cho\'zib yuzimga,
+\nYoshlarim artadi taskinlar berib.
+\nQuyosh ham nur sochib, so\'liq yuzimga,
+\nQuvonchin baxsh etar, gardishin kerib.
+        </item>
+
+        <item>
+            Suymagan yor ishqida, kuymagin buncha,
+\nTashlab ketar istasa, mayli so\'lguncha.
+\nUmid bilan yashaysan, qadring bilguncha,
+\nTermulasan yo\'liga ko\'zing tolguncha.
+\n
+\nG\'ururingni sindirma, bevafoga bosh egib,
+\nVa\'dasi ko\'p ishonma, armon tubiga cho\'kib.
+\nQalbing to\'rini tutma, bag\'rida issiz yonib,
+\nQanotsiz pavoz etma , sarob hayolga cho\'mib.
+\n
+\nBaxting yulduzdek chaqnab, kutar visol bog\'ida,
+\nO\'chmas otashdek cho\'lg\'ab, yashnar sevgi kuyida.
+\nKo\'ngil bermay sog\'inib, kutar vasling shayida,
+\nMuhabbatning asli bor, chin taqdirning poyida
+        </item>
+
+        <item>
+            Meni o\'g\'irlab ket o\'z dunyoyimdan,
+\nSensiz dunyolardan charchadim jonim.
+\nMuhabbat qadriga yetmayin qara,
+\nYolg\'izlik qahriga uchradim jonim.
+\n
+\nMeni o\'g\'irlab ket o\'z hayotimdan,
+\nKuchim yetmayapti so\'ngsiz g\'amlarga.
+\nMeni qutqar jonim kelib o\'zimdan,
+\nYurak bo\'yalmasin qizil qonlarga.
+\n
+\nMeni o\'g\'irlab ket o\'z ko\'zlarimdan,
+\nYasholmayman seni bir kun ko\'rmayin.
+\nYonimda bo\'lmasang kerakmas hayot,
+\nYonimda bo\'lmasang o\'lmog\'im tayin.
+\n
+\nKelib ko\'r sensizlik ne kuyga soldi,
+\nKelib ko\'r yolg\'izlik ayladi xasta.
+\nIsmingni aytmoqda har bir tomirim,
+\nIsmingni aytmoqda lablarim asta.
+\n
+\nMeni o\'g\'irlab ket mendan azizim,
+\nBunday o\'g\'rilikka olmassan jazo.
+\nSensizlik shu qadar g\'ajir ruhimni,
+\nSensizlik shu qadar bermoqda azob.
+\n
+\nMeni o\'g\'irlab ket o\'z dunyoyimdan,
+\nIshongin yomonam charchadim jonim.
+\nMen sening qalbingdan otilgan ohman,
+\nYana o\'zing tomon sachradim jonim.
+        </item>
+
+        <item>
+            Qayerga uchdi orzular,
+\nUvol bo\'ldi bu tuyg\'ular,
+\nXayotim bo\'ldi ertaklar,
+\nKetganingdan beri.
+\n
+\nUmid jonimga darmon,
+\nAmmo sog\'inch yomon,
+\nZaforon rangim somon,
+\nKetganingdan beri.
+\n
+\nBir yurakda ikkita odam,
+\nTurfa dunyo o\'zga olam,
+\nOsmonlarga tegdi nolam,
+\nKetganingdan beri.
+\n
+\nBog\'da gullarning sexri,
+\nMenga tanish armon mehri,
+\nQisqa ekan bahtni kunlari,
+\nSen Ketganingdan beri.
+\n
+\nIsmingni eshitsam nogoh,
+\nBo\'lar ko\'ngil eski olovgoh,
+\nBalki yor senga begona nigoh,
+\nMeni unutganingdan beri.
+        </item>
+
+        <item>
+            Yuragimda mungli sado,
+\nYig\'layverib bo\'ldi ado,
+\nIshqimga berib bir baxo,
+\nBahtli bo\'lgin bevafo.
+\n
+\nKo\'zimni sen aldading,
+\nQisqa manzil tanlading,
+\nIshqimizni neg xo\'rlading?
+\nBaxtli bo\'lgin bevafo.
+\n
+\nErmak menmi yoki senmi,
+\nNaxot dunyo senga kengmi,
+\nEndi kimliging tayinmi,
+\nBahtli bo\'lgin bevafo.
+\n
+\nQanday unitayin ayt axir,
+\nQilding xayotimni taxir,
+\nSengda xam bor taqdir,
+\nBahtli bo\'lgin bevafo.
+\n
+\nTilak tillolarga aylandimi,
+\nKuyov shahzoda saylandimi,
+\nKimdir bir o\'lib tirildimi,
+\nBahtlli bo\'lgin bevafo.
+\n
+\nQismatim ko\'p kuyinma,
+\nYuragim qo\'y yig\'lama,
+\nOh qaytmas bir bahorima,
+\nBahtli bo\'lgin bevafo.
+        </item>
+        <item>
+Bag\'ishladim o\'zimni senga azizim,
+\nQalbimdagi tuganmas o‘chmas tuyg\'uni.
+\nJonim fido aylayin, tanho sevgilim,
+\nJuft xalolim borligim, yuragim ohi.
+\n
+\nOg\'ushingda bo‘lsaydim, to‘yib har kuni,
+\nMastlanib bo‘y-bastingdan, sharob ichsaydim.
+\nIssiq bag\'ringda yonib, quchsaydim, qani,
+\nParvona bo\‘lib, giryona darding olsaydim.
+\n
+\nBolalikning sho‘xligi ortimda qoldi,
+\nIlk muhabbat gulshani-o‘tmish dostoni.
+\nAtirgul yaprogida shabnamlar qoldi,
+\nO‘sha rayhon hidlari dimoqda qoldi.
+        </item>
+        <item>
+            Hayol surib hayolimni olgan qiz,
+\nUyalganda yurakka o\'t solgan qiz,
+\nSo\'ramaysiz, yuragimni bilmaysiz.
+\n
+\nNecha-necha oshiqlarga armon qiz,
+\nOy yuzlari ishq dardiga darmon qiz,
+\nLekin siz ham tilagimni bilmaysiz.
+\n
+\nAytolmagan sirlarimni bilgan qiz,
+\nGar bilsa ham yana sarson qilgan qiz,
+\nAdashasiz, keragimni bilmaysiz!
+        </item>
+
+        <item>
+            Senga ishondim bekor,
+\nSo\'zlaringda yolgon bor,
+\nAvval qilib olib yor,
+\nSo\'ngra qilding meni hor!
+\n
+\nMayli ketsang ketaver,
+\nO\'zgalarni deya ver,
+\nEndi manga farqi yo\'q
+\nSen meniki yoki yo\'q.
+\n
+\nKo\'zlarimdagi bu yosh,
+\nUrib koka uchgan-da
+\nQaytib kelarsan bir kun
+\nMen ozgani quchganda
+\n
+\nLekin kech bo\'lar afsus
+\nO\'tib ketadi bu kuz
+\nUchrashganda yuzma-yuz
+\nAytarman senga AFSUS.
+\n
+\nSen mendan kechgansan,
+\nEndi afsuslanmagin
+\nSen mendan ketgansan
+\nEndi qaytib kelmagin.
+\n
+\nMana o\'sha kun keldi
+\nOradan oylar o\'tti,
+\nO\'tmishim qaytib kelib,
+\nMeni kechiring dedi.
+\n
+\nShunda nima kerak bor,
+\nMenda endi o\'zga yor,
+\nU naqadar bahtiyor,
+\nBahtiga men vafodor.
+\n
+\nU menga bergani BAHT
+\nSendan olganim-ku DARD
+\nOramizda MUHABBAT
+\nSen bilan esa NAFRAT.
+\n
+\nEndi ket qaytib kelma,
+\nMeni ortiq eslama
+\nMen seni unutganman
+\nUnutgin afsuslanma.
+        </item>
+
+        <item>
+            Bir soxta qalb aldoqchi
+\nKetar ko\'ngil xonamdan
+\nMani o\'tga solmoqchi
+\nTikon ko\'rdim lolamdan
+\n
+\nMuxabbati yolg\'onim
+\nKulishlari yolg\'onim
+\nUchib tillo-zarlarga
+\nXazon aylading bog\'im
+\n
+\nDavosizdur muxabbat
+\nYurakga solarkan dard
+\nQalbimni ezar xasrat
+\nTikon ko\'rdim lolamdan
+\n
+\nXiyonatning zarbasi
+\nNurar ishonchning qasri
+\nBormikan yorning qasti
+\nTikon ko\'rdim lolamdan
+\n
+\nQayda yuragi borlar
+\nBu dardni kim davolar
+\nZohidni ishq azoblar
+\nTikon ko\'rdim lolamdan
+        </item>
+
+        <item>
+            Mendan o\'tdi asli xatolik,
+\nSizga bir so\'z aytgim keladi.
+\nBoshim egib uzurim aytib,
+\nYoningizga qaytgim keladi.
+\n
+\nXar kun yig\'lab eslayman sizni,
+\nXar kun ingrab qo\'msayman sizni,
+\nTushlarimdan izlayman sizni,
+\nYoningizga qaytgim keladi.
+\n
+\nBiz tufayli ayrodur yo\'llar,
+\nBiz tufayli ayrodur dillar,
+\nYuzlarimdan oqmoqda sellar,
+\nYoningizga qaytgim keladi.
+\n
+\nKechirsangiz kechira qolingda,
+\nXato bo\'lmas aytingchi kimda,
+\nO\'jarlik xam evi bilanda,
+\nYoningizga qaytgim keladi.
+\n
+\nXotiralar qoldi bir qisim,
+\nOx yuragim ox tilim-tilim,
+\nOg\'riyapti manabu yerim,
+\nYoningizga qaytgim keladi.
+        </item>
+
+        <item>
+            Telefondan uzmayin ko\'zim,
+\nSavollarga ko\'mgancha o\'zim.
+\nJamolingni qumsab umidvor,
+\nQo\'ng\'irog\'ing kutdim intizor.
+\n
+\nBo\'lingancha o\'y-u xayolim,
+\nqorong\'udir bu o\'ngi-so\'lim;
+\nhar fursatda chekkancha ozor,
+\nQo\'ng\'irog\'ing kutdim intizor.
+\n
+\nDaqiqa ham berar aziyat,
+\nHayollarim bo\'linar faqat.
+\nXudoyberdi quchganicha tor,
+\nQo\'ng\'irog\'ing kutdim intizor.
+\n
+\nBoshqasida ko\'ngling bormikan,
+\nYoki bilmam senga ormikan.
+\nQovog\'imda yog\'ar laylak qor,
+\nQo\'ng\'irog\'ing kutdim intizor.
+\n
+\nQorong\'u ham tushmoqda ahir,
+\nTilka poradir yurak bag\'ir.
+\nHijron yuki bo\'lib bir bozor,
+\nQo\'ng\'irog\'ing kutdim intizor.
+        </item>
+
+        <item>
+            Kimnidir sog\'inib yolg\'iz qolganingda,
+\nSeni sevganlarim yodinga tushsin.
+\nQismating oldida ojiz qolganda,
+\nMeni kuyganlarim yodinga tushsin.
+\n
+\nSendan baxtlar yuzin bursa yig\'lama,
+\nYuraging alamga to\'lsa yig\'lama.
+\nHayotdan umiding so\'nsa yig\'lama,
+\nMeni aytganlarim yodinga tushsin.
+\n
+\nSuyganing yuz burib vafo qilmasa,
+\nBitta shirin so\'zin ravo ko\'rmasa.
+\nVa\'dalar bersa-yu, ammo kelmasa,
+\nMeni kutganlarim yodinga tushsin.
+\n
+\nQalbingni dardini aritolmasang,
+\nUmringni bir kunin yoritolmasang.
+\nKimnidir qiynalib unutolmasang,
+\nAlam yutganlarim yodinga tushsin.
+\n
+\nKo\'z oldingda yoring xiyonat qilsa,
+\nSen ko\'z yosh to\'ksang-u, u beparvo kulsa.
+\nAtayin yoningda o\'zgani quchsa,
+\nMeni ko\'rganlarim yodinga tushsin.
+\n
+\nMayli men roziman eslamasang ham,
+\nSen qaydasan deb izlamasang ham.
+\nKimgadir bu haqida so\'zlamasang ham,
+\nSeni sevganlarim yodinga tushsin.
+        </item>
+
+        <item>
+            Seni dedim ko\'zlaringga qarolmadim,
+\nHatto sendan hol ahvoling so\'rolmadim,
+\nSog\'inib men yonginagga borolmadim,
+\nKechir, men sevishimni aytolmadim.
+\n
+\nKo\'z yosh bilan yonginamga kelar eding,
+\nHol ahvolim so\'rab zimdan kular eding,
+\nSog\'inganim ko\'zlarimdan bilar eding,
+\nKechir, men sevishimni aytolmadim.
+\n
+\nMenga bunday nigoh bilan boqma endi,
+\nDilginamga o\'t-olovlar yoqma endi,
+\nBaxtsizman deb o\'z-o\'zingni so\'kma endi,
+\nKechir, men sevishimni aytolmadim.
+\n
+\nSevdim ammo yuragimda asrab keldim,
+\nQalblarimda, og\'ushimda saqlab keldim,
+\nOstonangga bordim ammo qaytib keldim,
+\nKechir, men sevishimni aytolmadim.
+
+        </item>
     </string-array>
 </resources>
