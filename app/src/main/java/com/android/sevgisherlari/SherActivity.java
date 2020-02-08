@@ -53,12 +53,12 @@ public class SherActivity extends AppCompatActivity {
                 if(!isFavorite){
                     menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_clicked));
                     addData(id, title, lyric);
-                    Toast.makeText(SherActivity.this,"Tanlanganlarga qo'shildi",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SherActivity.this,"Sevimlilarga qo'shildi",Toast.LENGTH_SHORT).show();
                     isFavorite = true;
                 }else{
                     menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_unclicked));
                     dbHelper.deleteRow(id);
-                    Toast.makeText(SherActivity.this,"Tanlanganlardan o'chirildi",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(SherActivity.this,"Sevimlilardan o'chirildi",Toast.LENGTH_SHORT).show();
                     isFavorite = false;
                 }
                 break;

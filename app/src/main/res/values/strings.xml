@@ -11,11 +11,12 @@
     <string name="action_send_lyric">Sherni yuborish</string>
 
     <string name="menu_main">Asosiy sahifa</string>
-    <string name="menu_gallery">Tanlanganlar</string>
+    <string name="menu_favorite">Sevimlilar</string>
     <string name="menu_info">Dastur haqida</string>
     <string name="menu_apps">Boshqa dasturlarimiz</string>
     <string name="menu_share">Dasturni yuborish</string>
     <string name="menu_rate">Baholash</string>
+    <string name="empty_fav">Sevimlilar ro\'yxatidan hech narsa topilmadi…</string>
 
     //Sevgi sherlari
     <string-array name="sevgi_lyrics">

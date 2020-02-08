@@ -28,7 +28,7 @@ public class FavoriteAdapter extends ArrayAdapter {
     public View getView(int position, View convertView, ViewGroup parent) {
         LayoutInflater inflater = context.getLayoutInflater();
         @SuppressLint("ViewHolder")
-        View row = inflater.inflate(R.layout.custom_list, null, false);
+        View row = inflater.inflate(R.layout.favorite_list, null, false);
         TextView title = (TextView) row.findViewById(R.id.title_view);
         ImageView imageView = row.findViewById(R.id.icon_list);
 
