@@ -66,12 +66,12 @@ public class SevgiActivity extends AppCompatActivity {
             "Kechir,sevishimni aytolmadim..."
     };
 
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sevgi);
+        setContentView(R.layout.activity_lyric_list);
+
+        setTitle("Sevgi haqida");
 
         listView = findViewById(R.id.listView);
 

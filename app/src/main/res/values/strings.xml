@@ -10,6 +10,7 @@
     <string name="action_favorite">Tanlash</string>
     <string name="action_copy_lyric">Nusxa olish</string>
     <string name="action_send_lyric">Sherni yuborish</string>
+    <string name="action_font_size">Matn hajmi</string>
 
     <string name="menu_main">Asosiy sahifa</string>
     <string name="menu_favorite">Sevimlilar</string>
@@ -19,7 +20,7 @@
     <string name="menu_rate">Baholash</string>
     <string name="empty_fav">Sevimlilar ro\'yxatidan hech narsa topilmadi…</string>
 
-    //Sevgi sherlari
+    <!--Sevgi sherlari-->
     <string-array name="sevgi_lyrics">
         <item>
             Sevdim degan so`zingni asra,
@@ -1083,7 +1084,468 @@ Sog\'inchlarim yurak tilar deb,
 \nQalblarimda, og\'ushimda saqlab keldim,
 \nOstonangga bordim ammo qaytib keldim,
 \nKechir, men sevishimni aytolmadim.
+        </item>
+    </string-array>
 
+    <!--Oila sherlari-->
+    <string-array name="oila_lyrics">
+        <item>
+            Sog\'inchim Qo\'limga Tutqazdi Qalam
+\nQalbimni Nimtalab Tirnaydi Alam
+\nUl Sherim Go\'zal yor Sanamga emas
+\nOnamni Sog\'inib Sher Yozdim Manam
+\n
+\nOnajon Qadringiz Bilmapman Qarang
+\nEndichi kunlarim o\'tyapti arang
+\nBu kecha negadur asablar Tarang
+\nOnamni Sog\'inib Sher yozdim manam
+\n
+\nOldigiday O\'g\'lingiz Sho\'x shodon emas
+\nTunlari kezuvchi bezori emas
+\nO\'g\'lingiz qalbida faqat yor emas
+\nOnamni Sog\'inib Sher Yozdim Manam
+\n
+\nKunlarga Qo\'shilib Kunlar o\'tadi
+\nKo\'z ochib Yumguncha Yillar o\'tadi
+\nKo\'rasiz O\'g\'lingiz yana qaytadi
+\nBu safar sog\'inchin Borib Aytadi
+        </item>
+<item>
+    Qafasda sherdek men bandi,
+\nQashqirlarga bo\'lib sharmanda.
+\nO\'tmas edi umrim armonda,
+\nDadajonim tirik bo\'lganda.
+\n
+\nYo\'llarimda bo\'lmasdi to\'siq,
+\nYurmas edim o\'rtanib, o\'ksib.
+\nChinorlardan ketardim o\'sib,
+\nDadajonim tirik bo\'lganda.
+\n
+\nDushmanlarim qutirmas edi,
+\nKo\'ksimga tig\' botirmas edi.
+\nKo\'nglimni xech cho\'ktirmas edi,
+\nDadajonim tirik bo\'lganda.
+\n
+\nKo\'ksim to\'la azob-u, qiynoq,
+\nOg\'ir ekan otasiz yurmoq.
+\nYashar edim baxtiyor, quvnoq,
+\nDadajonim tirik bo\'lganda.
+\n
+\nАchchiq ko\'z yosh, ko\'zimga parda,
+\nQolmas edim aro yo\'llarda.
+\nShoxdek yashar edim agarda.
+\nDadajonim tirik bo\'lganda.
+\n
+\nShodmon yurgim kelar mening ham,
+\nАmmo tutgan yoqamdan alam.
+\nKo\'z yoshimni ko\'rmasdi bolam,
+\nDadajonim tirik bo\'lganda.
+\n
+\nTushkun ruhim mehrlarga zor,
+\nKo\'rib ozor ustiga ozor.
+\nQatorlardan qolmasdim zinhor,
+\nDadajonim hayot bo\'lganda.
+</item>
+
+        <item>
+            Kalta fahm nodonlarni deb,
+\nYot begona odamlarni deb,
+\nOrasida ko\'ksimni kerib,
+\nXafa qilib qo\'ydim otamni.
+\n
+\nAxir buni istamas edim,
+\nLaganbardor izmida edim.
+\nYo\'lg\'on Mexrdan sarmast edim,
+\nXafa qilib qo\'ydim otamni.
+\n
+\nMeni deya qancha kuymadi,
+\nO\'stirgincha ne g\'am yemadi,
+\nKiydirsa ham o\'zi kiymadi.
+\nXafa qilib qo\'ydim otamni.
+\n
+\nNaxot qadrin oyoq ostida,
+\nQildimmi yo jaxl ustida,
+\nIchimdagi dushman dastidan,
+\nXafa qilib qo\'ydim otamni.
+\n
+\nOtam borki borman to\'rida,
+\nBoy-u nochorlar xuzurida,
+\nQuloq tutib shayton jo\'rida,
+\nXafa qilib qo\'ydim otamni.
+\n
+\nOllohimning g\'azabi ayon,
+\nO\'tayotgan xar on namoyon,
+\nXudoyberdi yurak bag\'ri qon,
+\nXafa qilib qo\'ydim otamni.
+\n
+\nKechiring men nodon o\'g\'lingiz,
+\nParvardigor bersin umringiz,
+\nOg\'ritib qo\'ydimda dilingiz,
+\nXafa qilib qo\'ydim otamni.
+\n
+\nAqlim kirdi shukur vaqtida,
+\nBorliglari oilam baxtida,
+\nUmri uzoq bo\'lsin otamni,
+\nVa mexribonim aziz onamni!
+        </item>
+
+        <item>
+            Mehribon, hushzabon, ko\'ngli oppog\'im,
+\nSo\'zlari shirindur, qalbi yumshog\'im,
+\nDilimga g\'am qayg\'u, o\'rnashgan onim,
+\nKo\'nglimni ko\'targan mehribon Onam,
+\nBarchadan mehribon,Farishtam Onam!
+\n
+\nDard kelsa yengasiz,bizga bildirmay,
+\nBizni kuldirarsiz,o\'zingiz kulmay,
+\nO\'zingiz u joyga, bir bora bormay,
+\nHoji inson bo\'l deb, duo qilganim,
+\nBarchadan mehribon,Farishtam Onam!
+\n
+\nDoimo bolam deb, nafsim deb yurdim,
+\nBolam bahtli bo\'l deb,yeldim, yugurdim,
+\nHotinim aytganin, doim shay qildim,
+\nTug\'ilgan kunda gul, olmagan Onam,
+\nSabrli,qadrli,Farishtam Onam!
+\n
+\nDardingiz olayin, munis onajon,
+\nG\'am ko\'rmang,yuzingiz kulsin Onajon,
+\nBizning bahtimizga sog\' bo\'ling har on,
+\nOzgina dard ko\'rsam, doim parvonam,
+\nBarchaga mehribon,farishtam Onam!
+        </item>
+
+        <item>
+                   Bilaman atrofimda dushmanlarim ko\'p,
+        \nBilaman yonimda sodiq chin do\'st yuq.
+        \nG\'iybatlari jonimdan to\'ydirsa bir kun,
+        \nOta-onam duosi asraydi meni.
+\n
+        \nSevgilim bir kuni tashlab ketsa xam,
+        \nYonimdan begonadek kulib o\'tsa xam,
+        \nHiyonati jonimdan tuydirsa shu dam.
+        \nOta-onam duosi asraydi meni.
+\n
+        \nBir kuni uzimni ojiz deb bilsam,
+        \nQalbim yig\'lab turib ko\'zlarim kulsa.
+        \nJonimni olgani azroyil kelsa,
+        \nOta-onam duosi asraydi meni.
+        </item>
+
+        <item>
+            Milliarder emasman lekin,
+\nEng zoʼr oshpaz taomin yeyman.
+\nUl shoxona taomlarni chin,
+\nEng lazzatbaxsh taomlar deyman!
+\n
+\nU qoʼl urgan barcha taomning
+\nMasalligʼi tuzi joyida.
+\nBunday taom tortilmas xatto,
+\nАrablarning shox saroyida!
+\n
+\nBritaniyada Oksfordda yo,
+\nАmerikada Garvardda taʼlim.
+\nOlmaganman ox menga ammo,
+\nTaʼlim bergan eng zoʼr muallim.
+\n
+\nQadrin anglamasam menga xayf,
+\nUnvoni zoʼr lek kamtar xar dam.
+\nNa muftiydir na qori na shayx,
+\nMenga namoz oʼrgatgan odam.
+\n
+\nBemor boʼlsam Germaniyadan,
+\nToki uchib kelguncha jarroh
+\nXabar olib boʼlgan doimo,
+\nEng zoʼr tabib xizmatimda ox.
+\n
+\nUdir mening eng yaqin doʼstim,
+\nOʼtga-choʼqqa urar oʼzini.
+\nKerak boʼlsa men uchun rosti,
+\nOʼyib berar ikki koʼzini.
+\n
+\nGoʼdak chogʼim enagam boʼlgan,
+\nOtamdan koʼp silagan boshim.
+\nYuvib taglik yoʼrgaklarimni,
+\nUch yoshgacha boʼlgan farroshim.
+\n
+\nShveytsariya banklarida yoʼq,
+\nDollar Yevro oltin kumushim.
+\nАmmo duo qilsa koʼnglim toʼq,
+\nYurishadi xar bir yumushim.
+\n
+\nQaroqchi yo oʼgʼri emasman,
+\nUyim shinam, xonam ixchamdir.
+\nMen sultonning kizi emasman,
+\nАmmo bir zot qirolichamdir!
+        </item>
+
+        <item>
+            Sababli bo\'larkan dunyo ishlari,
+\nBir so\'z zarbidan tog\' qularkan.
+\nTovoninga botsa tuxmat toshlari,
+\nBoshingda parvona onang turarkan.
+\n
+\nYelib yuguramiz bola-chaqa deb,
+\nTiriklik tashvishida umr o\'tarkan.
+\nXayot senga omadni ko\'rmasa ep,
+\nSenga duo qilib onang yig\'larkan.
+\n
+\nInsonning qadamin xatolar poylar,
+\nYaxshining bahtini raxmon berar.
+\nSeni undan bo\'lak kim qayg\'urar,
+\nSeni bahting tilab onang yig\'larkan.
+\n
+\nMuhabbat nomalum bir eshikdur,
+\nOchsang-ochmasang udir mehmon.
+\nYoshlik chog\'I qaytmas xurlikdur,
+\nQadrin bilarkansan bo\'lsang notovon.
+\n
+\nTiq etsa eshikdan ko\'zalarin uzmay,
+\nQadaming poylab parvona bo\'larkan.
+\nRizqin ulashar o\'zi tuz totmay,
+\nQadir-qimmatinga onang yig\'larkan.
+\n
+\nEy inson adashma to\'g\'ri  yo\'lingdan,
+\nSabr qil bahtli kunlar xam kelarkan.
+\nNogoh ketsang agar osmon bag\'ridan,
+\nRuhinga parvona onang yig\'larkan.
+        </item>
+
+        <item>
+            Orzu qilib to\'yimizni ko\'rolmagan.
+\nUlg\'aytirb bo\'yimizni ko\'rolmagan.
+\nQancha odam kelgan to\'yga kelolmagan.
+\nMexribonim azizginam ONAJONIM
+\n
+\nBugun to\'ydir o\'z-o\'zimga so\'zlayapman.
+\nBirov bilmas ich-ichimdan bo\'zlayapman.
+\nSiz yo\'qsiz-u lekin sizni izlayapman.
+\nJoylaringiz bilindi ko\'p ONAJONIM.
+\n
+\nYonimda yo\'q naxot endi bo\'lolmaysiz.
+\nDuo qilib oq fotixa berolmaysiz.
+\nShu damlarda naxot boshim silolmaysiz.
+\nQo\'lim yetmas osmonginam ONAJONIM.
+\n
+\nUylarimiz to\'lmish mana mexmonlarga.
+\nYurak esa to\'lib bo\'ldi armonlarga.
+\nBoraymi yo ONAJON siz tomonlarga.
+\nMeni mangu armonginam ONAJONIM.
+\n
+\nAna OTAM sochidagi oqi bo\'ldim.
+\nMunis singlim ko\'nglidagi oxi bo\'ldim.
+\nBu dunyoning ko\'ngli yarim sog\'i bo\'ldim.
+\nDardlarimga darmonginam ONAJONIM.
+\n
+\nTermulasiz chiqolmaysiz suratlardan.
+\nNola chekib qaro yerning qatlaridan.
+\nJudo bo\'lib bolam demoq baxtlaridan.
+\nMening aziz jannatmakon ONAJONIM.
+        </item>
+
+        <item>
+            Yonimga kelishgan edi tunov kun,
+\nQarasam, ikkisi ancha xoribdi.
+\nMahzun koʼzlaridan sezib qoldim men,
+\nOtam ham, onam ham birdek qaribdi!
+\n
+\nDardlarim koʼp edi serob, toʼkinli,
+\nDardlarki, yurakka qadar boribdi.
+\nOʼrtadan boʼlishib olgan, shekilli,
+\nOtam ham, onam ham birdek qaribdi!
+\n
+\nKoʼzda yosh yiltillar nogoh kularkan,
+\nАnordek yuzlarni ajin yoribdi.
+\nYolgʼiz oʼgʼil dardi ogʼir boʼlarkan,
+\nOtam ham, onam ham birdek qaribdi!
+\n
+\nQarilik dardini berkitolmas zeb,
+\nАtrofdan serjilo yoshlik aribdi.
+\nTavba, bir-biridan qolishmayin deb,
+\nOtam ham, onam ham birdek qaribdi!
+\n
+\nYillarni yamlaydi bittagina gʼam,
+\nBitta dard sochlarga qorlar qoribdi.
+\nBesh kunlik ekan-da dunyo rostan ham -
+\nOtam ham, onam ham birdek qaribdi!
+\n
+\nYonimga kelishgan edi tunov kun,
+\nBoqsam, bus-butunlay soch oqaribdi.
+\nNogoh bir qoʼrqinchdan choʼchib ketdim men -
+\nOtam ham, onam ham birdek qaribdi
+        </item>
+
+        <item>
+            Yurardim qachonlardir betashvish-u beg\'am.
+\nE\'tibor qilmapman dardin bilsam ham.
+\nEndi foydasi yo\'q qancha achinsam,
+\nQaytib kelmas yerga otlangan OTAM.
+\n
+\nUch kun jim yotdilar shiftga boqqancha,
+\nBiror so\'z demasdan qalbim yoqqancha,
+\nHisoblab gunoh-u va savobin qancha,
+\nSukutda kimlarni o\'ylagan OTAM.
+\n
+\nUch kun azoblanib ozor chekdilar,
+\nUmr bog\'lariga dardni ekdilar,
+\nG\'amning yaprog\'idan kafan tikdilar,
+\nO\'zining ajalin sog\'ingan OTAM.
+\n
+\nUchkun ham o\'tdi-yu tilga kirdilar,
+\nMehribonim sekin yaqin tortdilar,
+\nMendan rozi bo\'lgin qiynalma deya,
+\nNasihatlar aytib vidolashdilar.
+\n
+\nMen ahmoq tushunmay vido so\'zini,
+\nYolg\'iz tashlab ketdim bilmay o\'zini,
+\nOrtiq ko\'rolmadim o\'tli ko\'zini,
+\nBir umr ko\'ziga zor etgan OTAM.
+\n
+\nOtajon mehribon, g\'amxo\'r edingiz,
+\nAsaldayin shirin edi so\'zingiz,
+\nSog\'inib eslaydi telba Öglingiz,
+\nBolam deb, Ög\'lim deb yashagan OTAM.
+\n
+\nKuz kelib xazonlar to\'kildi bir bir,
+\nKimdir vafot etdi, tug\'ildi kimdir,
+\nVafotizga mana to\'libdi bir yil
+\nOlloh dargohiga yo\'l olgan OTAM.
+\n
+\nQabringiz yonida turibman mana,
+\nSiz sevgan gullardan keltirdim yana,
+\nKo\'ksimdan otilib yosh chiqdi ana
+\nMening ko\'zlarimni yoshlatgan OTAM.
+\n
+\nOTAJON o\'ksinmang ranjiganim yo\'q,
+\nKo\'zimga chang kirdi yig\'laganim yo\'q,
+\nYaxshiman ko\'nglingiz qilavering to\'q
+\nTushlarimda holim so\'ragan OTAM.
+\n
+\nYig\'lamayman degandim yig\'ladim biroq,
+\nAhir kimsa yo\'q-ku sizdan yaqinroq,
+\nNe uchun ketdingiz olislab yiroq,
+\nQaytib kelmas yerdan joy olgan OTAM
+        </item>
+
+        <item>
+Onam mehri yetib ortadi.
+\nMayli dunyo beshavqat bo\'lsin.
+\nMen baxtliman ey birodarlar.
+\nMayli dunyo g\'azabga to\'lsin.
+\n
+\nOnam mehri yetib ortadi.
+\nNima kerak, do\'stning oh-vohi.
+\nBirkun kelib yordam so\'raseng.
+\nTanimasga oladi goxi.
+\n
+\nOnam mehri yetib ortadi.
+\nKerak emas, soxta kalomlar.
+\nBir bor o\'glim desa yetadi.
+\nKerak emas, o\'zgacha nomlar.
+\n
+\nOnam mehri yetib ortadi.
+\nSevganimni daldasi shartmas.
+\nU xam birkun ortga qaytadi.
+\nKutmayman xam, qaytmasa qaytmas.
+\n
+\nOnam mehri yetib ortadi.
+\nButun dunyo shavqat qilmasin.
+\nBirbor boshimni silagani bas.
+\nMayli dushman yaram tirnasin.
+\n
+\nOnam mehri yetib ortadi.
+\nEy yoronlar sizdan kutmayman.
+\nOnam borki yuragim butun.
+\nUl zot borki alam yutmayman.
+\n
+\nOnam mehri yetib ortadi.
+\nQolganlar bir kuni minnatlar.
+\nShuning uchun menga topilmas.
+\nOnamdanda qadri qimmatlar.
+\n
+\nMehribon ko\'rsatma o\'zingni.
+\nMen uchun namlama ko\'zingni.
+\nEy yorim, bo\'lmagin so\'zimni.
+\nONAM MEHRI YETIB ORTADI.
+        </item>
+
+        <item>
+            Eng ishongan do’stlaring
+\nFitna  qursa ortingdan,
+\nAjablanma, birgina
+\nOtang  tursa  ortingda.
+\n
+\nSen  uchundir  bog’lar  ham,
+\nYo’lamaydi  zog’lar  ham,
+\nBo’yin  egar  tog’lar  ham,
+\nOtang  tursa  ortingda.
+\n
+\nYashaysan  bo’ri  bo’lib,
+\nZamonning  zo’ri  bo’lib,
+\nQalbingning  qo’ri  bo’lib,
+\nOtang  tursa  ortingda.
+\n
+\nSenga  bir  gap  aytayin,
+\nKetma  yana  taltayib,
+\nYuraverma  lallayib,
+\nOtang  tursa  ortingda.
+\n
+\nKamchiliging  yopib  ol,
+\nTurma,  yugur,  chopib  ol,
+\nO’z  yo’lingni  topib  ol,
+\nOtang  tursa ortingda.
+        </item>
+
+        <item>
+            Har qanday kun o\'tib ketadi,
+\nNigohlarim ko\'klarga yetadi,
+\nHar bir onim baxtli etadi
+\nOtajonim omon bo\'lsangiz,
+\n
+\nOnajonim omon bo\'lsangiz.
+\nJarohatu dardimga davo
+\nUshbu ko\'zlar, umrimga ma\'no,
+\nJannatlardan bersin nur mavo,
+\n
+\nOtajonim omon bo\'lsangiz,
+\nOnajonim omon bo\'lsangiz.
+\nOzor berib qildim ko\'p gunoh,
+\nYoshlik qilib ko\'p bo\'ldim gumrox,
+\n
+\nHayotimga malakdek hamrox
+\nOtajonim omon  bo\'lsangiz,
+\nOnajonim omon bo\'lsangiz.
+\nSizdek hech kim berolmas vafo,
+\n
+\nMen-chi faqat beroldim jafo,
+\nHali mendan ko\'rasiz safo,
+\nOtajonim omon bo\'lsangiz,
+\nOnajonim omon bo\'lsangiz.
+\n
+\nSiz deb ursin vujudda yurak,
+\nMenga boshqa yana ne kerak!
+\nBittagina bebaho tilak!
+\nOtajonim omon bo\'lsangiz,
+\n
+\nOnajonim omon bo\'lsangiz.
+\nSizlar menga armug\'on doim,
+\nPanohingda asra Xudoyim,
+\nQo\'lim ochib, yangrar duoyim:
+\n
+\nOtajonim omon bo\'lsangiz,
+\nOnajonim omon bo\'lsangiz.
+\nBo\'laman ha, albat oriyat,
+\nSizga hamroh bo\'lsin ofiyat,
+\n
+\nHar on bo\'lar dilda bir niyat:
+\nOtajonim omon bo\'lsangiz,
+\nOnajonim omon bo\'lsangiz.
+\nSizsiz mening abadiy taxtim,
+\n
+\nBu so\'z mening buzilmas axdim,
+\nHar lahzaki bud bo\'lar baxtim
+\nOtajonim omon bo\'lsangiz,
+\nOnajonim omon bo\'lsangiz.
         </item>
     </string-array>
 </resources>

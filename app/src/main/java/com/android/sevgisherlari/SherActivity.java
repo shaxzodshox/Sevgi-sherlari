@@ -4,13 +4,19 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import android.app.AlertDialog;
 import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.os.Bundle;
+import android.util.TypedValue;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -33,6 +39,10 @@ public class SherActivity extends AppCompatActivity {
     private String lyric = "";
     private String title = "";
 
+    private float textSizeArr[] = {8,10,12,14,16,18,20,22,24,26};
+
+    private int seekbarPosition;
+
     ArrayList<Integer> id_list; //all available id in the database
 
     @Override
@@ -40,11 +50,11 @@ public class SherActivity extends AppCompatActivity {
         getMenuInflater().inflate(R.menu.menu_favorite, menu);
         this.menu = menu;
         if(checkFavorite(id)){
-            menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_clicked));
+            menu.getItem(1).setIcon(ContextCompat.getDrawable(this, R.drawable.star_clicked));
             isFavorite = true;
         }
         else{
-            menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_unclicked));
+            menu.getItem(1).setIcon(ContextCompat.getDrawable(this, R.drawable.star_unclicked));
             isFavorite = false;
         }
         return true;
@@ -55,12 +65,12 @@ public class SherActivity extends AppCompatActivity {
         switch (item.getItemId()){
             case R.id.action_favorite:
                 if(!isFavorite){
-                    menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_clicked));
+                    menu.getItem(1).setIcon(ContextCompat.getDrawable(this, R.drawable.star_clicked));
                     addData(id, title, lyric);
                     StyleableToast.makeText(SherActivity.this, "Sevimlilarga qo'shildi", R.style.favoriteToast).show();
                     isFavorite = true;
                 }else{
-                    menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_unclicked));
+                    menu.getItem(1).setIcon(ContextCompat.getDrawable(this, R.drawable.star_unclicked));
                     dbHelper.deleteRow(id);
                     StyleableToast.makeText(SherActivity.this, "Sevimlilardan o'chirildi", R.style.favoriteToast).show();
                     isFavorite = false;
@@ -73,8 +83,56 @@ public class SherActivity extends AppCompatActivity {
             case R.id.action_copy_lyric:
                 copyLyric();
                 break;
+
+            case R.id.action_font_size:
+                showTextSize();
+                break;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    private void showTextSize() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(SherActivity.this);
+        View mView = getLayoutInflater().inflate(R.layout.custom_seekbar, null);
+        Button saveBtn = mView.findViewById(R.id.saveBtn);
+        SeekBar seekBar = mView.findViewById(R.id.seekbar);
+
+        seekBar.setProgress(seekbarPosition);
+        tv_lyric.setTextSize(textSizeArr[seekbarPosition]);
+
+        builder.setView(mView);
+        final AlertDialog dialog = builder.create();
+        dialog.setCanceledOnTouchOutside(false);
+        dialog.getWindow().getAttributes().windowAnimations = R.style.DialogAnimation;
+        dialog.show();
+        saveBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                SharedPreferences preferences = getSharedPreferences("SHARED_PREFS", MODE_PRIVATE);
+                SharedPreferences.Editor editor = preferences.edit();
+                editor.putInt("text_size", seekbarPosition);
+                editor.apply();
+                dialog.dismiss();
+            }
+        });
+
+        seekBar.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {
+            @Override
+            public void onProgressChanged(SeekBar seekBar, int progress, boolean fromUser) {
+                tv_lyric.setTextSize(textSizeArr[progress]);
+            }
+
+            @Override
+            public void onStartTrackingTouch(SeekBar seekBar) {
+
+            }
+
+            @Override
+            public void onStopTrackingTouch(SeekBar seekBar) {
+                seekbarPosition = seekBar.getProgress();
+            }
+        });
+
     }
 
     private void copyLyric() {
@@ -98,6 +156,7 @@ public class SherActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sher);
+        setTitle("She'rlar");
 
         tv_title = findViewById(R.id.tv_title);
         tv_lyric = findViewById(R.id.tv_lyric);
@@ -109,6 +168,13 @@ public class SherActivity extends AppCompatActivity {
         tv_title.setText(title);
         tv_lyric.setText(lyric);
 
+        getSeekbarPosition();
+        tv_lyric.setTextSize(textSizeArr[seekbarPosition]);
+    }
+
+    private void getSeekbarPosition() {
+        SharedPreferences preferences = getSharedPreferences("SHARED_PREFS", MODE_PRIVATE);
+        seekbarPosition = preferences.getInt("text_size", 4); //default is 16sp
     }
 
     public void addData(int id, String title, String lyric){

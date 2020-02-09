@@ -90,6 +90,7 @@
             app:cardUseCompatPadding="true"
             >
             <LinearLayout
+                android:id="@+id/oila_btn"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:orientation="vertical"
                 android:layout_width="match_parent"

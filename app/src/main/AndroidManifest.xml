@@ -23,6 +23,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".OilaActivity" android:parentActivityName=".MainActivity"/>
 
         <meta-data
             android:name="preloaded_fonts"
