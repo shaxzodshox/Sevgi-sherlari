@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SevgiSherlari</string>
+    <string name="app_name">Sevgi Sherlari</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -1546,6 +1546,24 @@ Onam mehri yetib ortadi.
 \nHar lahzaki bud bo\'lar baxtim
 \nOtajonim omon bo\'lsangiz,
 \nOnajonim omon bo\'lsangiz.
+        </item>
+
+        <item>
+            Sochlariga oralagan oq,
+\nKo\'rsatganlar hayotdan saboq,
+\nSizni rozi qildimmi yo yo\'q?
+\nShu savolga qo\'yarman so\'roq.
+\n
+\nXech kimsadan kam ham qilmagan,
+\nMehnat qilib sira tinmagan,
+\nUnitgandir balki o\'zini
+\nAmmo har dam bizni o\'ylagan.
+\n
+\nKatta yo\'lga qo\'yganda qadam,
+\nDoyim meni qo\'llagan dadam,
+\nYiqitganda beshavqat dunyo,
+\nTo\'g\'ri yo\'lni ko\'rsatgan dadam.
+
         </item>
     </string-array>
 </resources>

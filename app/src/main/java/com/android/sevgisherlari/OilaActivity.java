@@ -36,7 +36,8 @@ public class OilaActivity extends AppCompatActivity {
             "Qaytib kelmas yerdan joy olgan otam",
             "Onajonim mexri menga yetib ortadi",
             "Otang tursa ortingda",
-            "Otajonim omon bo'lsangiz"
+            "Otajonim omon bo'lsangiz",
+            "Dadam"
 
     };
 
@@ -135,6 +136,12 @@ public class OilaActivity extends AppCompatActivity {
                         intent.putExtra("title", oila_title[12]);
                         intent.putExtra("lyric", oila_full[12]);
                         intent.putExtra("id", 12);
+                        break;
+
+                    case 13:
+                        intent.putExtra("title", oila_title[13]);
+                        intent.putExtra("lyric", oila_full[13]);
+                        intent.putExtra("id", 13);
                         break;
                 }
 
