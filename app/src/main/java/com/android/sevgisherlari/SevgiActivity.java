@@ -5,11 +5,18 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.SearchView;
 
 import com.android.sevgisherlari.adapter.CustomAdapter;
+import com.android.sevgisherlari.adapter.SearchAdapter;
+
+import java.util.ArrayList;
 
 public class SevgiActivity extends AppCompatActivity {
 
@@ -53,11 +60,12 @@ public class SevgiActivity extends AppCompatActivity {
             "Hayol surib hayolimni olgan qiz",
             "Afsuslanasan",
             "Tikon ko'rdim lolamdan",
-            "Yoningizga qaytgim keladi",
+            "Yig'layapsan ko'zlaringda yosh",
             "Qo'ng'irog'ing kutdim intizor",
             "Seni sevganlarim yodinga tushsin",
             "Kechir,sevishimni aytolmadim..."
     };
+
 
 
     @Override
@@ -329,9 +337,55 @@ public class SevgiActivity extends AppCompatActivity {
         });
 
     }
-
     private void getFullLyric() {
         Resources res = getResources();
         sevgi_full = res.getStringArray(R.array.sevgi_lyrics);
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater menuInflater = getMenuInflater();
+        menuInflater.inflate(R.menu.menu_search, menu);
+        MenuItem item = menu.findItem(R.id.menu_search);
+        SearchView searchView = (SearchView) item.getActionView();
+        searchView.setQueryHint("Qidirish...");
+
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String query) {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                final ArrayList<String> searchList = new ArrayList<>();
+                final ArrayList<Integer> positions = new ArrayList<>();
+
+                for(int i = 0; i < sevgi_full.length; i++){
+                    if(sevgi_title[i].toLowerCase().contains(newText.toLowerCase())){
+                        searchList.add(sevgi_title[i]);
+                        positions.add(i);
+                    }
+                }
+                final SearchAdapter adapter = new SearchAdapter(SevgiActivity.this, searchList, R.drawable.heart_2);
+                listView.setAdapter(adapter);
+
+                listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+                    @Override
+                    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                        Intent intent = new Intent(SevgiActivity.this, SherActivity.class);
+                        intent.putExtra("title",searchList.get(position));
+                        intent.putExtra("lyric",sevgi_full[positions.get(position)]);
+                        intent.putExtra("id",positions.get(position));
+
+                        startActivity(intent);
+                    }
+                });
+
+                return false;
+            }
+        });
+
+        return super.onCreateOptionsMenu(menu);
     }
 }

@@ -89,10 +89,10 @@ public class SherActivity extends AppCompatActivity {
     public void addData(int id, String title, String lyric){
         boolean insertData = dbHelper.addData(id, title, lyric);
         if(insertData){
-            Toast.makeText(SherActivity.this,"Successfully",Toast.LENGTH_SHORT).show();
+           //Toast.makeText(SherActivity.this,"Successfully",Toast.LENGTH_SHORT).show();
         }
         else{
-           Toast.makeText(SherActivity.this,"Unsuccessfully",Toast.LENGTH_SHORT).show();
+           //Toast.makeText(SherActivity.this,"Unsuccessfully",Toast.LENGTH_SHORT).show();
         }
     }
 
