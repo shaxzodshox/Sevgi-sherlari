@@ -4,6 +4,9 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import android.content.ClipboardManager;
+import android.content.Context;
+import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.view.Menu;
@@ -12,6 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.sevgisherlari.db.DatabaseHelper;
+import com.muddzdev.styleabletoast.StyleableToast;
 
 import java.util.ArrayList;
 import java.util.Objects;
@@ -53,21 +57,42 @@ public class SherActivity extends AppCompatActivity {
                 if(!isFavorite){
                     menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_clicked));
                     addData(id, title, lyric);
-                    Toast.makeText(SherActivity.this,"Sevimlilarga qo'shildi",Toast.LENGTH_SHORT).show();
+                    StyleableToast.makeText(SherActivity.this, "Sevimlilarga qo'shildi", R.style.favoriteToast).show();
                     isFavorite = true;
                 }else{
                     menu.getItem(0).setIcon(ContextCompat.getDrawable(this, R.drawable.star_unclicked));
                     dbHelper.deleteRow(id);
-                    Toast.makeText(SherActivity.this,"Sevimlilardan o'chirildi",Toast.LENGTH_SHORT).show();
+                    StyleableToast.makeText(SherActivity.this, "Sevimlilardan o'chirildi", R.style.favoriteToast).show();
                     isFavorite = false;
                 }
                 break;
             case R.id.action_send_lyric:
-                Toast.makeText(SherActivity.this,"Send lyric",Toast.LENGTH_SHORT).show();
+                shareText();
+                break;
+
+            case R.id.action_copy_lyric:
+                copyLyric();
                 break;
         }
         return super.onOptionsItemSelected(item);
     }
+
+    private void copyLyric() {
+        ClipboardManager clipboard = (ClipboardManager) getSystemService(Context.CLIPBOARD_SERVICE);
+        String copy_text = lyric;
+        assert clipboard != null;
+        clipboard.setText(copy_text);
+      StyleableToast.makeText(this, "Nusxa olindi...", R.style.copyToast).show();
+    }
+
+    private void shareText() {
+        String shareTxt = lyric;
+            Intent shareIntent = new Intent();
+            shareIntent.setAction(Intent.ACTION_SEND);
+            shareIntent.putExtra(Intent.EXTRA_TEXT,shareTxt);
+            shareIntent.setType("text/plain");
+            startActivity(shareIntent);}
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -8,6 +8,7 @@
     <string name="action_rate">Baholash</string>
     <string name="action_share">Yuborish</string>
     <string name="action_favorite">Tanlash</string>
+    <string name="action_copy_lyric">Nusxa olish</string>
     <string name="action_send_lyric">Sherni yuborish</string>
 
     <string name="menu_main">Asosiy sahifa</string>

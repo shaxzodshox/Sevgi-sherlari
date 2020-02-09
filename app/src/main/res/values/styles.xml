@@ -17,4 +17,30 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
+    <style name="copyToast">
+        <item name="stTextBold">true</item>
+        <item name="stColorBackground">#94ffab</item>
+        <item name="stTextColor">#000</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stIconStart">@drawable/copy_black</item>
+        <item name="stLength">SHORT</item>
+        <item name="stGravity">center</item>
+        <item name="stRadius">5dp</item>
+        <item name="stTextSize">16sp</item>
+    </style>
+
+    <style name="favoriteToast">
+        <item name="stTextBold">true</item>
+        <item name="stColorBackground">#FFC107</item>
+        <item name="stTextColor">#000</item>
+        <item name="stStrokeWidth">3dp</item>
+        <item name="stStrokeColor">#000</item>
+        <item name="stIconStart">@drawable/ic_star_black_24dp</item>
+        <item name="stLength">SHORT</item>
+        <item name="stGravity">center</item>
+        <item name="stRadius">5dp</item>
+        <item name="stTextSize">16sp</item>
+    </style>
+
 </resources>
