@@ -14,11 +14,13 @@ import androidx.lifecycle.ViewModelProviders;
 import com.android.sevgisherlari.OilaActivity;
 import com.android.sevgisherlari.R;
 import com.android.sevgisherlari.SevgiActivity;
+import com.android.sevgisherlari.DostlikActivity;
+import com.android.sevgisherlari.TabrikActivity;
 
 public class HomeFragment extends Fragment implements View.OnClickListener{
 
     private HomeViewModel homeViewModel;
-    private LinearLayout sevgi_btn, oila_btn;
+    private LinearLayout sevgi_btn, oila_btn, dostlik_btn, tabrik_btn;
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
@@ -28,9 +30,13 @@ public class HomeFragment extends Fragment implements View.OnClickListener{
 
         sevgi_btn = root.findViewById(R.id.sevgi_btn);
         oila_btn = root.findViewById(R.id.oila_btn);
+        dostlik_btn = root.findViewById(R.id.dostlik_btn);
+        tabrik_btn = root.findViewById(R.id.tabrik_btn);
 
         sevgi_btn.setOnClickListener(this);
         oila_btn.setOnClickListener(this);
+        dostlik_btn.setOnClickListener(this);
+        tabrik_btn.setOnClickListener(this);
         return root;
     }
 
@@ -45,6 +51,13 @@ public class HomeFragment extends Fragment implements View.OnClickListener{
                 startActivity(new Intent(getContext(), OilaActivity.class));
                 break;
 
+            case R.id.dostlik_btn:
+                startActivity(new Intent(getContext(), DostlikActivity.class));
+                break;
+
+            case R.id.tabrik_btn:
+                startActivity(new Intent(getContext(), TabrikActivity.class));
+                break;
         }
     }
 }

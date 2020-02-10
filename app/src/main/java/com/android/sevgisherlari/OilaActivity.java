@@ -37,8 +37,14 @@ public class OilaActivity extends AppCompatActivity {
             "Onajonim mexri menga yetib ortadi",
             "Otang tursa ortingda",
             "Otajonim omon bo'lsangiz",
-            "Dadam"
-
+            "Dadam",
+            "Yaqinlarim",
+            "Qadr",
+            "Musofirman onajon",
+            "Yoshligimni sog'indim",
+            "Otang-Onang",
+            "Onamga xat",
+            "Hayot bo’lsa kimning onasi"
     };
 
     @Override
@@ -143,6 +149,49 @@ public class OilaActivity extends AppCompatActivity {
                         intent.putExtra("lyric", oila_full[13]);
                         intent.putExtra("id", 13);
                         break;
+
+                    case 14:
+                        intent.putExtra("title", oila_title[14]);
+                        intent.putExtra("lyric", oila_full[14]);
+                        intent.putExtra("id", 14);
+                        break;
+
+                    case 15:
+                        intent.putExtra("title", oila_title[15]);
+                        intent.putExtra("lyric", oila_full[15]);
+                        intent.putExtra("id", 15);
+                        break;
+
+                    case 16:
+                        intent.putExtra("title", oila_title[16]);
+                        intent.putExtra("lyric", oila_full[16]);
+                        intent.putExtra("id", 16);
+                        break;
+
+                    case 17:
+                        intent.putExtra("title", oila_title[17]);
+                        intent.putExtra("lyric", oila_full[17]);
+                        intent.putExtra("id", 17);
+                        break;
+
+                    case 18:
+                        intent.putExtra("title", oila_title[18]);
+                        intent.putExtra("lyric", oila_full[18]);
+                        intent.putExtra("id", 18);
+                        break;
+
+                    case 19:
+                        intent.putExtra("title", oila_title[19]);
+                        intent.putExtra("lyric", oila_full[19]);
+                        intent.putExtra("id", 19);
+                        break;
+
+                    case 20:
+                        intent.putExtra("title", oila_title[20]);
+                        intent.putExtra("lyric", oila_full[20]);
+                        intent.putExtra("id", 20);
+                        break;
+
                 }
 
                 startActivity(intent);
