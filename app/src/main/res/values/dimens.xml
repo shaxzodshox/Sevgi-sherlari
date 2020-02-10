@@ -6,4 +6,7 @@
     <dimen name="nav_header_height">176dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="txt_size">20sp</dimen>
+    <dimen name="app_iconsize">80dp</dimen>
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="cardview_h">80dp</dimen>
 </resources>

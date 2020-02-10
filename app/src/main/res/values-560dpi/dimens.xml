@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="txt_size">20sp</dimen>
+    <dimen name="app_iconsize">80dp</dimen>
+    <dimen name="textsize">16sp</dimen>
+    <dimen name="cardview_h">80dp</dimen>
 </resources>

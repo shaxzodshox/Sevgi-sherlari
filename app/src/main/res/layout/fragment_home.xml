@@ -71,7 +71,7 @@
                     android:text="SEVGI HAQIDA"
                     android:fontFamily="@font/amsterdam"
                     android:textColor="@color/text_red"
-                    android:textSize="16sp"
+                    android:textSize="@dimen/textsize"
                     android:textAlignment="center"
                     />
             </LinearLayout>
@@ -109,7 +109,7 @@
                     android:text="OILA HAQIDA"
                     android:fontFamily="@font/amsterdam"
                     android:textColor="@color/text_red"
-                    android:textSize="16sp"
+                    android:textSize="@dimen/textsize"
                     android:textAlignment="center"
                     />
             </LinearLayout>
@@ -146,7 +146,7 @@
                     android:text="DO'STLIK HAQIDA"
                     android:fontFamily="@font/amsterdam"
                     android:textColor="@color/text_red"
-                    android:textSize="16sp"
+                    android:textSize="@dimen/textsize"
                     android:textAlignment="center"
                     />
             </LinearLayout>
@@ -183,7 +183,7 @@
                     android:text="TABRIK SMS"
                     android:fontFamily="@font/amsterdam"
                     android:textColor="@color/text_red"
-                    android:textSize="16sp"
+                    android:textSize="@dimen/textsize"
                     android:textAlignment="center"
                     />
             </LinearLayout>
@@ -220,7 +220,7 @@
                     android:text="KULGULI SHERLAR"
                     android:fontFamily="@font/amsterdam"
                     android:textColor="@color/text_red"
-                    android:textSize="16sp"
+                    android:textSize="@dimen/textsize"
                     android:textAlignment="center"
                     />
             </LinearLayout>
@@ -257,7 +257,7 @@
                     android:text="ARALASH"
                     android:fontFamily="@font/amsterdam"
                     android:textColor="@color/text_red"
-                    android:textSize="16sp"
+                    android:textSize="@dimen/textsize"
                     android:textAlignment="center"
                     />
             </LinearLayout>
