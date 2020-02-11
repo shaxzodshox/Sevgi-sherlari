@@ -34,7 +34,32 @@ public class TabrikActivity extends AppCompatActivity {
             "Juma namozidan qolmang",
             "Tug'ilgan kuning bilan o'glim",
             "Singlim",
-            "Tilayman"
+            "Tilayman",
+            "Bugungi ayyomiz muborak bo'lsin!",
+            "Tug'ilgan kuningiz bilan ona",
+            "Har kuningiz o’tsin bayramday har on!",
+            "8-mart tabrik - 1",
+            "8-mart tabrik - 2",
+            "Bugun tug'ilgan kunim",
+            "Xayrli tun jonginam",
+            "To'yda aytiladigan sher",
+            "Kelinchak uchun tabrik sheri",
+            "Robbim sizni asrasin",
+            "Tug'ulgan kuningiz bilan aka",
+            "8-Mart uchun ajoyib tabrik",
+            "Ustozga tilak",
+            "Aziz muallim",
+            "Hayit muborak - 1",
+            "Hayit muborak - 2",
+            "Toychog'im mani",
+            "Ro'za muborak",
+            "O'qigan insonga XAYRLI OQSHOM!",
+            "Sizga tilayman shirin bir uyqu",
+            "Yangi yil yangi kun",
+            "Yangi yil tabrigi",
+            "Aziz sinfdoshlarim!",
+            "So'nggi qo'ng'iroq",
+            "Vatan"
     };
 
     @Override
@@ -112,6 +137,168 @@ public class TabrikActivity extends AppCompatActivity {
                         intent.putExtra("title", tabrik_title[9]);
                         intent.putExtra("lyric", tabrik_full[9]);
                         intent.putExtra("id", 9);
+                        break;
+
+                    case 10:
+                        intent.putExtra("title", tabrik_title[10]);
+                        intent.putExtra("lyric", tabrik_full[10]);
+                        intent.putExtra("id", 10);
+                        break;
+
+                    case 11:
+                        intent.putExtra("title", tabrik_title[11]);
+                        intent.putExtra("lyric", tabrik_full[11]);
+                        intent.putExtra("id", 11);
+                        break;
+
+                    case 12:
+                        intent.putExtra("title", tabrik_title[12]);
+                        intent.putExtra("lyric", tabrik_full[12]);
+                        intent.putExtra("id", 12);
+                        break;
+
+                    case 13:
+                        intent.putExtra("title", tabrik_title[13]);
+                        intent.putExtra("lyric", tabrik_full[13]);
+                        intent.putExtra("id", 13);
+                        break;
+
+                    case 14:
+                        intent.putExtra("title", tabrik_title[14]);
+                        intent.putExtra("lyric", tabrik_full[14]);
+                        intent.putExtra("id", 14);
+                        break;
+
+                    case 15:
+                        intent.putExtra("title", tabrik_title[15]);
+                        intent.putExtra("lyric", tabrik_full[15]);
+                        intent.putExtra("id", 15);
+                        break;
+
+                    case 16:
+                        intent.putExtra("title", tabrik_title[16]);
+                        intent.putExtra("lyric", tabrik_full[16]);
+                        intent.putExtra("id", 16);
+                        break;
+
+                    case 17:
+                        intent.putExtra("title", tabrik_title[17]);
+                        intent.putExtra("lyric", tabrik_full[17]);
+                        intent.putExtra("id", 17);
+                        break;
+
+                    case 18:
+                        intent.putExtra("title", tabrik_title[18]);
+                        intent.putExtra("lyric", tabrik_full[18]);
+                        intent.putExtra("id", 18);
+                        break;
+
+                    case 19:
+                        intent.putExtra("title", tabrik_title[19]);
+                        intent.putExtra("lyric", tabrik_full[19]);
+                        intent.putExtra("id", 19);
+                        break;
+
+                    case 20:
+                        intent.putExtra("title", tabrik_title[20]);
+                        intent.putExtra("lyric", tabrik_full[20]);
+                        intent.putExtra("id", 20);
+                        break;
+
+                    case 21:
+                        intent.putExtra("title", tabrik_title[21]);
+                        intent.putExtra("lyric", tabrik_full[21]);
+                        intent.putExtra("id", 21);
+                        break;
+
+                    case 22:
+                        intent.putExtra("title", tabrik_title[22]);
+                        intent.putExtra("lyric", tabrik_full[22]);
+                        intent.putExtra("id", 22);
+                        break;
+
+                    case 23:
+                        intent.putExtra("title", tabrik_title[23]);
+                        intent.putExtra("lyric", tabrik_full[23]);
+                        intent.putExtra("id", 23);
+                        break;
+
+                    case 24:
+                        intent.putExtra("title", tabrik_title[24]);
+                        intent.putExtra("lyric", tabrik_full[24]);
+                        intent.putExtra("id", 24);
+                        break;
+
+                    case 25:
+                        intent.putExtra("title", tabrik_title[25]);
+                        intent.putExtra("lyric", tabrik_full[25]);
+                        intent.putExtra("id", 25);
+                        break;
+
+                    case 26:
+                        intent.putExtra("title", tabrik_title[26]);
+                        intent.putExtra("lyric", tabrik_full[26]);
+                        intent.putExtra("id", 26);
+                        break;
+
+                    case 27:
+                        intent.putExtra("title", tabrik_title[27]);
+                        intent.putExtra("lyric", tabrik_full[27]);
+                        intent.putExtra("id", 27);
+                        break;
+
+                    case 28:
+                        intent.putExtra("title", tabrik_title[28]);
+                        intent.putExtra("lyric", tabrik_full[28]);
+                        intent.putExtra("id", 28);
+                        break;
+
+                    case 29:
+                        intent.putExtra("title", tabrik_title[29]);
+                        intent.putExtra("lyric", tabrik_full[29]);
+                        intent.putExtra("id", 29);
+                        break;
+
+                    case 30:
+                        intent.putExtra("title", tabrik_title[30]);
+                        intent.putExtra("lyric", tabrik_full[30]);
+                        intent.putExtra("id", 30);
+                        break;
+
+                    case 31:
+                        intent.putExtra("title", tabrik_title[31]);
+                        intent.putExtra("lyric", tabrik_full[31]);
+                        intent.putExtra("id", 31);
+                        break;
+
+                    case 32:
+                        intent.putExtra("title", tabrik_title[32]);
+                        intent.putExtra("lyric", tabrik_full[32]);
+                        intent.putExtra("id", 32);
+                        break;
+
+                    case 33:
+                        intent.putExtra("title", tabrik_title[33]);
+                        intent.putExtra("lyric", tabrik_full[33]);
+                        intent.putExtra("id", 33);
+                        break;
+
+                    case 34:
+                        intent.putExtra("title", tabrik_title[34]);
+                        intent.putExtra("lyric", tabrik_full[34]);
+                        intent.putExtra("id", 34);
+                        break;
+
+                    case 35:
+                        intent.putExtra("title", tabrik_title[35]);
+                        intent.putExtra("lyric", tabrik_full[35]);
+                        intent.putExtra("id", 35);
+                        break;
+
+                    case 36:
+                        intent.putExtra("title", tabrik_title[36]);
+                        intent.putExtra("lyric", tabrik_full[36]);
+                        intent.putExtra("id", 36);
                         break;
                 }
                 startActivity(intent);
