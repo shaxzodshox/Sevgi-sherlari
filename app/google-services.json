@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76473847287",
+    "firebase_url": "https://sevgisherlari-f6026.firebaseio.com",
+    "project_id": "sevgisherlari-f6026",
+    "storage_bucket": "sevgisherlari-f6026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76473847287:android:abbe829fc367a61a91b2f2",
+        "android_client_info": {
+          "package_name": "com.android.sevgisherlari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76473847287-g5g0cf0gr8mk1a3k5jfnt85cji63hirt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.sevgisherlari",
+            "certificate_hash": "fcdfd1cf08faea00a5836dfdd2683a7ac47db4e5"
+          }
+        },
+        {
+          "client_id": "76473847287-8up8er1p6d53pe2knnqhne9miucp3cdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3RAKyWAob-ld284ZDTJn1dGWwLMX_41U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76473847287-8up8er1p6d53pe2knnqhne9miucp3cdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

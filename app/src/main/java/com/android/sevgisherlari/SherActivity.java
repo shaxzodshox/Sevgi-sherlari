@@ -21,6 +21,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.sevgisherlari.db.DatabaseHelper;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
 import com.muddzdev.styleabletoast.StyleableToast;
 
 import java.util.ArrayList;
@@ -158,6 +160,8 @@ public class SherActivity extends AppCompatActivity {
         setContentView(R.layout.activity_sher);
         setTitle("She'rlar");
 
+        showBannerAd();
+
         tv_title = findViewById(R.id.tv_title);
         tv_lyric = findViewById(R.id.tv_lyric);
         dbHelper = new DatabaseHelper(this);
@@ -199,5 +203,12 @@ public class SherActivity extends AppCompatActivity {
             }
         }
         return false;
+    }
+
+    private void showBannerAd() {
+        //banner ad
+        AdView mAdView = findViewById(R.id.adView);
+        AdRequest adRequest = new AdRequest.Builder().build();
+        mAdView.loadAd(adRequest);
     }
 }

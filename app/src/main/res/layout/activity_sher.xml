@@ -35,8 +35,9 @@
         android:layout_height="match_parent"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
-         android:layout_marginBottom="16dp"
-        android:layout_below="@id/title">
+        android:layout_below="@id/title"
+        android:layout_above="@id/adView"
+        >
 
         <TextView
             android:id="@+id/tv_lyric"
@@ -46,8 +47,16 @@
             android:textSize="@dimen/txt_size"
             android:textAlignment="textStart"
             />
-
     </ScrollView>
-
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="ca-app-pub-2026382780923969/7793283165">
+    </com.google.android.gms.ads.AdView>
 
 </RelativeLayout>

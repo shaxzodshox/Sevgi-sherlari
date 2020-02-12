@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sevgi Sherlari</string>
+    <string name="app_name">Sevgi sherlari</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -54,7 +54,7 @@
 \n
 \nTo`ldir jonim, qalbingni nurdan,
 \nGo`zal bo`lsin tunlaring kundan,
-\nSevsang agar Ahadni chindan,
+\nSevsang agar meni chindan,
 \nMen uchun ham o`zingni asra.
 </item>
         <item>
@@ -2558,4 +2558,2273 @@ Tungi uyqingiz osuda bo\'lsin,
         </item>
     </string-array>
 
+    <string-array name="kulgili_lyrics">
+        <item>
+Oq xalatni fartukga,
+\nАlmashtirdi bu taqdir.
+\nOq paxtadan koʼzlarni,
+\nQamashtirdi bu taqdir.
+\nIgna tutgan qoʼllarni,
+\nChanoq tilib tashlagan.
+\nKuz shamoli ayovsiz,
+\nYuzlar suliy boshlagan.
+\nOʼn yetti yosh yoshmidi,
+\nQatorlarga egilgan.
+\nNecha-necha orzular ,
+\nPaxtazorga tukilgan.
+\nEllik kundir bu qoʼllar,
+\nTinim nima bilmaydi.
+\nGʼuncha lablar yorilgan,
+\nBir ochilib kulmaydi.
+\nQoʼyosh boboni tongda,
+\nOʼyqudan oʼygʼotganlar.
+\nChala kurgan tushlarin,
+\nYulduzlarga aytganlar.
+\nNon xamirli bulkalar,
+\nMedangizga botgandir,
+\nMen bilmagan orzular,
+\nDilingizda yotgandir.
+\nXudoga nola qilib,
+\nFaqat yomgʼir tilaysiz.
+\nTerolmasdan normani,
+\nQargʼab-qargʼab yigʼlaysiz.
+\nKuzlaringiz nigoron,
+\nOnam kelmaydi deya.
+\nGohi yigʼlab qolasiz,
+\nSogʼinchdan kuya-kuya.
+\nGohi erkalik qilib,
+\nMenga qavoq uyaasiz.
+\nАlamlarning dastidan,
+\nYolgʼon kasal bulasiz.
+\nBir kun kasal boʼlganda,
+\nToʼyib uxlab olasiz.
+\nKechalari uxlamay,
+\nBiqirlashib kulasiz.
+\nTarvuz degan neьmatni,
+\nKuz toʼymayin yeganlar.
+\nVaenkomat chaqirib,
+\nUxlay olmay yurganlar.
+\nMazam yoʼq deb dalada,
+\nMudrab uxlab qolganlar.
+\nJon chiqguncha xonada,
+\nDeskoteka qilganlar.
+\nOtasini yiroqdan,
+\nTanib chopib qolganlar.
+\nHavasi kelganlar-u,
+\nYigʼlaganlar kulganlar.
+\nBarchasini soʼzlasam,
+\nBitta doston boʼladi.
+\nOʼqiganlar kulishib,
+\nHaqiqat deb yuradi.
+\nSira-sira uksinmang,
+\nOzroq qoldi bu ishga,
+\nTeng boʼlmaydi hech narsa
+\nKallonada ketishga.
+\nDagʼallik qilgan boʼlsam,
+\nXafa boʼlmang siz mendan.
+\nMen shoir boʼlmasamda,
+\nYozganlarim chin dildan.
+        </item>
+
+        <item>
+            Kuyov boʼlmay oʼl, bolam!
+\nYuribsan koʼkrak kerib,
+\nErman deb buzib olam.
+\nKelindek salom berib,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\nOʼrgatdi qaysi beor?
+\nBu ishing nomus-u or,
+\nOʼlimga tikdingmi dor,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\nEgilib salom bergil,
+\nBoshing himo qil yengil,
+\nBoʼyan, qoshingni tergil,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\n "Аmmasiga bir salooooom,
+\nHammasiga bir salooooom."
+\nKetib qolibdi-ku tom,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\nErtadan supur hovli,
+\nYigʼlab ol boʼlsang xoli,
+\nYashang, desin aholi,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\nChoy damla qaynoq-qaynoq,
+\nTillaring boʼlsin qaymoq,
+\nErtalab pishir quymoq,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\nXotining kelishin kut,
+\nQaynonang zahrin unut,
+\nGaplarin ichingga yut,
+\nKuyov boʼlmay oʼl, bolam!
+\n
+\nBaxtlimisan ayt menga
+\nXotirimni ayla jam.
+\nMening aytarim senga
+\nKuyov boʼlmay oʼl, bolam!
+        </item>
+
+        <item>
+            Ey oʼzbek!
+\nQish poylab turibdi bizni eshikda,
+\nDavlat gazni sendan soʼrab sotsinmi?
+\nOʼzbek chaqalogʼi issiq beshikda,
+\nXitoyning bolasi sovuq qotsinmi?
+\n
+\nYo nima xurjuning qoldimi toʼlib?
+\nKoʼngling oq oltindan voz kechmoq boʼlar?
+\nSenga qolsa dehqon senator boʼlib,
+\nPaxta tersa Oliy Majlisdagilar.
+\n
+\nKoʼproq sham ol yigʼib teringaningdan,
+\nSoqovsan, shu bois seni sogʼamiz.
+\nShagʼam yoqmoqlikdan eringaningdan
+\nChiroqsiz qolsinmi oʼris ogʼamiz?
+\n
+\n-Nima? Nima deding? Yana bir qaytar,
+\n-Bizlarga xam yaxshi yashash yoqadi?
+\nIya tavba, tavba sen zoʼr yashasang,
+\nXorijda choʼchqani kimlar boqadi?
+\n
+\nBirinchi oʼrinda boʼlmogʼimiz shart,
+\nBoʼlmasa qulogʼing olgaymiz choʼzib,
+\nXanuz ikkinchimiz, ketganku nomard,
+\nShimoliy Koreya bizlardan oʼzib!
+        </item>
+
+        <item>
+            Bu telefon bir balo boʼldi,
+\nBarcha unga mubtalo boʼldi,
+\nUnda koʼpni sehriga tortgan
+\nFeysbuk,vatsap,imo boʼldi.
+\n
+\nErlar titar ishxonada ham,
+\nАyol qoʼymas oshxonada ham,
+\nOvunchoqdir yosh bolada ham,
+\nHamma birdek mahliyo boʼldi.
+\n
+\nHech kim boqmas nomus-shaniga,
+\nMaftun boʼlar shaklu rangiga,
+\nOʼxshab xumor tutgan bangiga,
+\nDardlar unda bedavo boʼldi.
+\n
+\nTutqazadi ota oʼgʼliga,
+\nBogʼlab oʼrgimchakning toʼriga,
+\nАylanadi manglay shoʼriga,
+\nHech tuzalmas bir xato boʼldi.
+\n
+\nTurli noxush filmni koʼrib,
+\nFojiali oʼlimni koʼrib,
+\nYolgʼon, boʼhton, zulmni koʼrib
+\nMurgʼak qalbi qap-qaro boʼldi.
+\n
+\nShum istaklar joʼsh urar tanda,
+\nPuch odatlar boʼlmaydi kanda,
+\nHirsu havas aylagach banda,
+\nIbodatlar ham qazo boʼldi.
+\n
+\nKoʼplar undan fatvo topgay xos,
+\nJavob izlar oʼz nafsiga mos,
+\nYolgʼonlarni ataganlar rost
+\nOʼzlaricha ulamo boʼldi.
+\n
+\nSoʼylasharlar odobdan nari,
+\nYurgay aybu gunohlar sari,
+\nJoy axtarib nomahram bari
+\nIymonidan mosuvo boʼldi.
+        </item>
+
+        <item>
+            Odamlarni eshak qilar, ot qilar,
+\nQora bozorni yomon desang, dod qilar.
+\nQimmatlikda rublni ham mot qilar,
+\nToychoq bo\'lib, chopib yurgan dollar bola!
+\n
+\nYaxshi ko\'rib o\'ynagani sum bo\'lar,
+\nPulning ini—banklarda bir zum bo\'lar
+\nTug\'ilibon qaylargadir gum bo\'lar,
+\nSakkiz mingni oshib yurgan dollar bola!
+\n
+\nYaxshi ko\'rar ammalaru xolalar,
+\nTanir xatto uchga kirgan bolalar.
+\nQaylardadir ko\'kat topar tog\'alar—
+\nKambag\'aldan qochib yurgan dollar bola!
+\n
+\nYarashadi ustimizdan kulsa ham,
+\nErdan yiroq, osmonlarda tursa ham.
+\nUyat bo\'lmas, o\'n minglikni ursa ham,
+\nErkalikni chochib yurgan dollar bola
+\n
+\nDadalarning armonlarin o\'ldirar,
+\nAyalarning sandiqlarin to\'ldirar.
+\nO\'rtoqlarin inflyatsiyaga to\'ydirar,
+\nProblemani yechib yurgan dollar bola
+\n
+\nKatta bo\'ldi, o\'zi topar nonini,
+\nQora bozorga fido qilar jonini
+\nTiklab qo\'ydi kal boboning sha\'nini,
+\nKoinotda uchib yurgan dollar bola
+        </item>
+
+        <item>
+            Darvozabon:
+\nGol O\'tkazdiev
+\n
+\nXimoyachilar:
+\nYugurib Yetolmasov
+\nYonidan O\'tkazvordiev
+\nYiqilib Tushdiev
+\nEplab Tepolmasov
+\n
+\nYarim ximoyachilar:
+\nАnqayib Turdiev
+\nCharchab Qoldiev
+\nАldanib Qoldiyev
+\nАlday Olmasov
+\n
+\nXujumchilar:
+\nGol Uralmasov
+\nOffsayda Qoldiev
+\n
+\nBosh murabbiy:
+\nTaktika Bilmasyan
+        </item>
+
+        <item>
+            O\'zingdan go\'zalroq yana qayda bor
+\nYulduzdek atrofingda oshiqlar bisyor
+\nTilagim ko\'zingdan to\'kilmasin yosh
+\nSani xafa qilganlar bop qolsin kalbosh!
+        </item>
+        <item>
+            Bo\'lay desang alkash,
+\nYo oyog\'i chalkash.
+\nYo ariqda yotuvchi,
+\nGoh ko\'chada qotuvchi.
+\nYo qarzga botuvchi,
+\nYo borini sotuvchi.
+\nNimaiki qilsang tilak,
+\nBariga ichish kerak.
+\nEy do\'stim sendan talab,
+\nHar kuni ich ertalab.
+\nBu smsni 20 ta alkashga jo\'nating.
+\n3 kun ichida yaxshi aroq ichasiz
+        </item>
+        <item>
+            Aqilli sarflar bir martta.
+\nLo\'xga kuyunar jonim.
+\nAhmoq xam sarflar sanoqli.
+\nLo\'x sarflar xar doim..
+\n
+\nKecha bozorga bordim.
+\nZo\'r palto sotib oldim.
+\nYana oldim qalin shim.
+\nUchrab qoldi tanishim.
+\n
+\nLo\'xlik qilib hoholab.
+\nMeni u gapga soldi.
+\n- Shunday issiq yoz kunda.
+\nPaltoga balo bormi?
+\n
+\nFutbolka ham ortiqcha.
+\n40 gradus issiq.
+\nU haq edi o\'zicha.
+\nMen huddi tilim qisiq.
+\n
+\nJavob berdim hotirjam.
+\n- o\'yla dedim birodar.
+\nXozr yozda paltoni.
+\nAqillilar sotvolar.
+\n
+\nSendaqa lox bandalar.
+\nYozda qishni o\'ylamas.
+\nHudo bergan kallani.
+\nIshlatib tuuur yaramas.
+\n
+\nYozda palto kiyilmas.
+\nOlmas uni xechkimsa.
+\nNarxi yozda arzonda.
+\nOshib ketar qish kelsa.
+\n
+\nBu ham bitta falsafa.
+\nKallani ishlatishda.
+\nFutbolka bo\'lar arzon.
+\nErta-indin qish kelsa.
+\n
+\nIkkita ko\'ylak puliga.
+\nBitta palto sotvoldim.
+\nTanishim til tishladi.
+\nTez tez yurip ketvordim.
+\n
+\nQissadan qissa shuki.
+\nERTANI O\'YLAB YASHA.
+\nLekin hammani fikri.
+\nKallasiga yarasha.
+\n
+\nUnutmang ey do\'stlarim
+\nKamroq qiling sarfni.
+\nYana takror yozaman.
+\nTepadagi tarifni.
+\n
+\nAqilli sarflar bir martta.
+\nLo\'xga kuyunar jonim.
+\nAhmoq xam sarflar sanoqli.
+\nLo\'x sarflar xar doim.
+\nHurmat bilan janob-prikol.
+        </item>
+
+        <item>
+            Qo\'limda telefonim sinib ketgudek.
+\nYurak notinch, yomon uryapti.
+\nBu xolat alamli, hamda kulguli.
+\nSiz so\'rayotgan abonent
+\nboshqa yo\'nalishga javob beryapti.
+\n
+\nYor xajri yomondir, rashk undan yomon.
+\nSabr chayqalyapti bo\'lmoqda tamom.
+\nIshonch bukilmoqda, ishonch sinyapti.
+\nSiz so\'rayotgan abonent boshqa
+\nyo\'nalishga javob beryapti
+\n
+\nLanati gumonlar, bass qilgin yo\'qol.
+\nShayton SMS yoz, boplab deyapti.
+\nYoqimli ovoz ham tuyular qo\'pol.
+\nSiz so\'rayotgan abonent boshqa yo\'nalishga javob beryapti
+\n
+\nHafa qilmagandim oxirgi martta.
+\nNega qaramaydi qo\'ng\'irog\'imga?
+\nUyiga bostirib borsammi shartta.
+\nJonim kelmoqdaku hiqqildog\'imga.
+\n
+\nUhlab qolibman kutib oxiri.
+\nTong saxar sms, undan kelibdi.
+\nKecha kelgan emish mehmon o\'rtogi..
+\nQilgan qong\'irog\'im bugun ko\'ribdi.
+\n
+\nJavob ham yozmadim, qong\'iroq qilmay.
+\nO\'sha kungi holim alam qilyapti.
+\nMen ham qo\'ymayman-da qasdimni olmay.
+\nU SO\'RAYOTGAN ABONENT BOSHQA YO\'NALISHGA JAVOB BERYAPTI
+        </item>
+        <item>
+            Gullarga pul raqib bo\'ldi,
+\nDollar barin taq\'ib qildi.
+\nValyutachik kulib dedi,
+\nAka dollar ko\'tarildi.
+\n
+\nSo\'mlar qoldi inqirozga,
+\nDollar bo\'ldi har og\'izda.
+\nNe sinoat bu qog\'ozda,
+\nAka dollar ko\'tarildi.
+\n
+\nBozorlarsiz bitmas yumish,
+\nBoshlarda ko\'p xol tashvish.
+\nHarjlar uchun kissa xomish,
+\nAka dollar ko\'tarildi.
+\n
+\nNarx navolar bo\'ldi osmon,
+\nBuni ko\'rib o\'rtandi jon.
+\nDo\'konchi der bo\'lmang hayron,
+\nAka dollar ko\'tarildi.
+\n
+\nQassob tishga qo\'ydi tish,
+\nQiyin bo\'ldi ho\'kiz olish.
+\nBiram qimmat go\'shtu govmish,
+\nAka dollar ko\'rildi.
+\n
+\nQiyin bo\'ldi sotuvchiga,
+\nAylandi gap otuvchiga.
+\nDiydi har bir o\'tuvchiga,
+\nAka dollar ko\'tarildi.
+\n
+\nKiyimdanku ochmang og\'iz,
+\nNarxin ko\'rib lol qolasiz.
+\nQimmat hatto qovun tarvuz,
+\nAka dollar ko\'tarildi.
+\n
+\nKo\'ngil uzib ketolmaysiz,
+\nHarid qilmay o\'tolmaysiz.
+\nDiydi nonni so\'rasangiz,
+\nAka dollar ko\'tarildi.
+\n
+\nBozorda zo\'r mashinalar,
+\nUni faqat boylar minar.
+\nOlay desam dollar so\'rar,
+\nAka dollar ko\'tarildi.
+\n
+\nAyting kimga qoldi kunim?
+\nQayga ketdi milliy pulim.
+\nDemang dilga berib zulm,
+\nAka dollar ko\'tarildi
+        </item>
+
+        <item>
+            Seni sevdim yoshlik qilib,
+\nTashlab kettim be boshlik qilib,
+\nSen yuribsan aza qilib,
+\nMen yuribman mazza qilib!
+        </item>
+<item>
+    Qizlar,  sizga  arzim  bor,
+\nToliqib  qolmang  turib.
+\nBoshlayman  bir  chekkadan,
+\nEshiting  jim  o’tirib.
+\n
+\nMayli, bugun mayda gap
+\nBo’laqolay, jon qizlar.
+\nSo’zla, deydi tillarim,
+\nYurak bo’ldi qon, qizlar.
+\n
+\nTan bermadim unchalik
+\nPoshnangizning uchiga.
+\nQocholmaysiz, quvlasa
+\nTeshavoyning kuchugi.
+\n
+\nOnam aytgan: Sochlarim
+\nTizzagacha o’sardi.
+\nSizda ham o’ssin, hech yo’q
+\nBelingizni to’sardi.
+\n
+\nYelka ochiq, bel-ku.., eh,
+\nQani nomus, or, qizlar?
+\nKammidi-ya shunchasi,
+\nShimga nima bor qizlar?
+\n
+\nShim kiyib o’tsa,(qarang!)
+\nMullaxonning xotini,
+\nHurkitarmish har safar
+\nElomonning otini.
+\n
+\nNigohingiz yovqarash,
+\nErkakchadir qadamlar.
+\n(Mehr to’la ko’zlarga
+\nNima bo’ldi odamlar ?!)
+\n
+\nEh qizlarjon, qalam, men –
+\nKim edikki o’zimiz,
+\nSizdek bag’ritoshlarga
+\nO’tar bo’lsa so’zimiz.
+\n
+\nYuravering chopqilab,
+\nZamonaga tenglashib.
+\nSoxta kiprik, kalta soch,
+\nYana kalta yenglashib.
+\n
+\nXafa bo’lmang, singlimdek
+\nG’amingizni yeyman-da.
+\nShu ketishda kuyovsiz
+\nQolib ketmang, deyman-da
+</item>
+
+        <item>
+Mensizlikda sensizlik, sensizlikdachi?
+\nSensizlikda mensizlik, mensizlikdachi
+\nMensizlikda sensizlik, olam aro cheksizlik
+\nSensizlik va mensizlik, to\'xta o\'zi kimsizlik?
+\n
+\nAgar mensiz sensizlik unda sensiz mensizlik
+\nBiz bo\'lmasak dunyoda qolar faqat cheksizlik
+\nO\'lay agar o\'zimni tushunsam edi koshki
+\nqornimni og\'ritdiku ko\'chadagi perashki
+        </item>
+
+        <item>
+Orzulari osmon qiz,
+\nSiz hammaga yoqarsiz.
+\nAgar shunday ketsangiz,
+\nAniq yorsiz qolarsiz.
+\n
+\nSôzlarimni rad qilmang,
+\nChiroizga ishonmang.
+\nKunda ming bor ôzgarmang,
+\nAniq yorsiz qolarsiz.
+\n
+\nJaxlim chiqsa kularsiz,
+\nSevgim chindur bilarsiz.
+\nYana qancha sinarsiz,
+\nAniq yorsiz qolarsiz.
+\n
+\nOrtingizdan yurmay kôp,
+\nOshiqlariz yôlda tôp.
+\nGapni kamaytiring xôp,
+\nAniq yorsiz qolarsiz.
+        </item>
+
+        <item>
+            Kutayotgandim Gulini
+\nKo\'rib qoldim Alini
+\nNega xomush yuribsan
+\nAytgin menga dardingni
+\n
+\nAli dedi ochig\'i
+\nSenga xavas qilaman
+\nKo\'p qizlarni taniysan
+\nBuni yaxshi bilaman
+\n
+\nQizlar bilan tanishishda
+\nKelmaydi xech omadim
+\nBo\'lmasa qara dedi
+\nKelishganku qomatim
+\n
+\nSoddagina do\'stima
+\nShunga siqilyapsanmi
+\nSo\'rasang bo\'lmaydimi
+\nDedim mendan maslahat
+\n
+\nQizlar ko\'ngli bir qulf
+\nTopmoq kerakdir kalit
+\nTopolmayin ko\'nglini
+\nYuribsanmi qiynalib
+\n
+\nQolgan bo\'lsa gar zanglab
+\nBiroz moylamoq kerak
+\nHamma qizda bor do\'stim
+\nSevib qolguvchi yurak
+\n
+\nQaramasa u senga
+\nYurma yana elanib
+\nHarakat qilmoq kerak
+\nBirozgina o\'ylanib
+\n
+\nXazilkash rostgo\'y yigit
+\nQizlarga xo\'p yoqadi
+\nYoqsa hamki yuzida
+\nJahl bilan boqadi
+\n
+\nQizlal bilmoq istashar
+\nSening ichki dunyoying
+\nBilib bilmay gapirib
+\nBoy berib qo\'yma siring
+\n
+\nTo\'g\'ri uchrab qoladi
+\nYo\'lda ba\'zi lattalar
+\nAmmo o\'sha latta ham
+\nYahshisini axtarar
+\n
+\nXullas qizlar o\'xshaydi
+\nOg\'zi yopiq xaltaga
+\nTopa olsang ko\'nglini
+\nYurasizlar yaltada
+\n
+\nSo\'zlarimni parilar
+\nSiz notug\'ri tushinmang
+\nBu bemani bola deb
+\nYana ortimdan so\'kmang
+\n
+\nXullas ne bo\'lganda ham
+\nSiz dunyoning naqshisiz
+\nBo\'yoq so\'yoq kerakmas
+\nBorligizcha yoqasiz
+        </item>
+        <item>
+            Goho pulim kamlik qilib
+\nGoh cho\'ntakka g\'amlik qilib
+\nGoh o\'qishga boradigan
+\nQizlarga dil romlik qilib
+\nQish , bahormi yoki kuzda
+\nYo\'l yuraman aftobusda
+\n
+\nYuzni urgan alkash chiqar
+\nYo\'l yo\'qotgan chalkash chiqar
+\nBazilar bor so\'z ko\'tarmas
+\nBazan dilga dilkash chiqar
+\nYuz ifoda yuz xil yuzda
+\nYo\'l yuraman aftobusda
+\n
+\nIkki ayol topishsa bas
+\nYo\'l tugaydi gap tugamas
+\nButun dunyo tashvishlari
+\nShulardadir xa gapim rost
+\nBir gaplardan dilim muzda
+\nYo\'l yuraman aftobusda
+\n
+\nBir mayizni bo\'lishganlar
+\nGapi so\'zi kelishganlar
+\nBir bo\'p qolar gohi do\'st yor
+\nGohi minar sevishganlar
+\nYigit ko\'zi bo\'lar qizda
+\nYo\'l yuraman aftobusda
+\n
+\nBir to\'xtaydi bir yuradi
+\nKim o\'tirib kim turadi
+\nYo\'l yo\'lakay voqiyalar
+\nTo\'xtamaydi avj uradi
+\nSo\'ng bitta she\'r tayyor bizda
+\nYo\'l yuraman aftobusda
+\n
+\nHar hil odam , bemor chiqar
+\nBedavoyu bedor chiqar
+\nJon kuyadi ko\'z namlanib
+\nDil yonadi yurak siqar
+\nDavom etib yo\'limizda
+\nJim ketaman aftobusda
+\n
+\nDunyo tanish uchun dunyo
+\nKezish shartmas aqli ziyo
+\nAftobusga chiqing hamda
+\nOdamlarga boqing qiyo
+\nHar narsani ko\'rasizda
+\nYo\'l yursangiz aftobusda
+\n
+\nBir gap aytay sizga qarz
+\nBu maslaxat emas arz
+\nAftobusdan foyda shuki
+\nArzon yo\'lu qimmat dars
+\nGapda tuz bor gap yo\'q tuzda
+\nYo\'l yuraman aftobusda
+\n
+\nKeyingisi bizni manzil
+\nYetip keldik mana oxir
+\nEshik asta ochildida
+\nTushib qoldi so\'ng Javohir
+\nYoz , bahormi yoki kuzda
+\nYo\'l yuraman aftobusda !
+        </item>
+
+        <item>
+            Domlam mani aylabon g\'arib,
+Paxtaga tashab ketdi jimgina,
+Ranglarim ham qoldi o\'zgarib,
+Yomon qo\'rqdim, yomon qo\'rqdima.
+
+Suray desam ertalab turib,
+Domlam turar betini yuvib,
+Ko\'zlarida g\'azabin ko\'rib,
+Yomon qo\'rqdim, yomon qo\'rqdima.
+        </item>
+
+        <item>
+            Miyyam qizib tomoqlarim achib ketti
+\nYuragimni go\'yo AJDAR g\'ajib ketti
+\nKoreyislar nishlarini sanchib ketti
+\nO\'ZBEKISTON MUNDIYALGA CHIQOLMADI
+\n
+\nEron uchun darvozamiz doim ochiq
+\nBitta Qatar berdi bizga yo\'lin ochib
+\nYutolmadik Xitoyni ham devor oshib
+\nO\'ZBEKISTON MUNDIYALGA CHIQOLMADI
+\n
+\nSergeyivga yetti metr torlik qilib
+\nRashidovdan boshqa biri boylik qilib
+\nSuriyani STADIONI loylik qilib
+\nO\'ZBEKISTON MUNDIYALGA CHIQOLMADI
+\n
+\nJeparovni zarbalari qiyshiq ketib
+\nHaydarovni tepgan to\'pi ustun o\'pib
+\nRossiyaga Koreys bilan Eron o\'tib
+\nO\'ZBEKISTON MUNDIYALGA CHIQILMADI
+\n
+\nBirovlarga sichqon ini bir bir tanga
+\nMisol uchun o\'sha " mashxur " Babayanga
+\nUnga nima vatan shani kerak sanga
+\nO\'ZBEKISTON MUNDIYALGA CHIQOLMADI
+\n
+\nYigirmadan olti yilni osha kuttik
+\nEx kechagi o\'yinni biz shosha kuttik
+\nAfsus yana o\'sha alam qo\'lin tuttik
+\nO\'ZBEKISTON MUNDIYALGA CHIQOLMADI
+\n
+\nHali buncha so\'kinmovdim shu kungacha
+\nGunoh bo\'ldi qo\'l oyog\'u va tilgacha
+\nArmon qilib kami yana to\'rt yilgacha
+\nO\'ZBEKISTON MUNDIYALGA CHIQOLMADI
+\n
+\nYurtin sevgan odamlarni ko\'zlari nam
+\nXuddi shunday alamdaman bugun men ham
+\nEndi menga bo\'ldi do\'stlar uch kun motam
+\nChunki yurtim MUNDIYALGA CHIQOLMADI
+        </item>
+
+        <item>
+            Xamma imtixonlarini topshirib
+\nballarini oshirib telefonlarini yashirib
+\nSoqqalarni toshirib domlalarni shoshirib
+\nQovoqlarini shishirib cho\'ntelani ishirib
+\nXuddi qo\'ygande pishirib
+\nErtalabdan turvogan reksonani survogan
+\nTalaba bo\'laman deb intilib
+\nOppoq ko\'ynelani kiyib taksi toxtataman deb xunob bo\'lib
+\nOxiri 2 ming sumli joyga 15 minga o\'tirib
+\nDTM ni g\'ijim qilib yo omadiga yo qomatiga
+\nYo ligotaga yoki tankasiga ishonib
+\nImtixonlaga ketvotganla niyatilaga yetila
+\nIloyim kirib ketila :)
+        </item>
+        <item>
+            Kollej uchun ketgan pulga
+\nBir neksiya olar edim
+\nAgar domla pul demasa
+\nmen millioner bo\'lar edim
+\n
+\nBaribir ham shu oshimni
+\nAylanib ham o\'zim yedim
+\nDomla kelib pul deganda
+\nJilmayib la mana dedim
+\n
+\nAxir bizga diplom kerak
+\nChidaymizda bitirguncha
+\nDomlalarning nazarida
+\nBizlar go\'yo qaynar xumcha
+\n
+\nDaftar duchka deganimda
+\nCho\'ntakda pul topilmaydi
+\nLekin do\'stlar shu soqqasiz
+\nsessiyalar yopilmaydi
+\n
+\nEy talaba oyda bir marta
+\nKeltirib tur birovdan salom
+\nAgar domla kulib qarasa
+\nKutar seni qip qizil diplom.
+        </item>
+
+        <item>
+            Orsizlikmi? yoki pastkashlik,
+\nHodisotga hayron qolaman,
+\nSizda qanday fikr bilmam, lek,
+\nMen mebelsiz xotin olaman.
+\n
+\nEmish epli kelinlar sepli,
+\nMaqolinga o\'t tushsin, xo\'pmi?
+\nUyingizda bir "mujik" yo\'qmi?
+\nMen mebelsiz xotin olaman.
+\n
+\nErkaklari bo\'lsa zardali,
+\nAyollari bo\'lar pardali,
+\nO\'zbekka or, bu – urf sharmandali,
+\nMen mebelsiz xotin olaman.
+\n
+\nQilgan emish orzu-havaslar,
+\nO\'g\'lin sotib qo\'ygan nokaslar,
+\nBo\'ldi qiling, ey molparastlar,
+\nMen mebelsiz xotin olaman.
+\n
+\nItalyancha mebeldan ko\'ra,
+\nKel zax yerda yotaylik , jo\'ra,
+\nKuyov salom qilgim yo\'q sira,
+\nMen mebelsiz xotin olaman
+\n
+\nMebel olish ko\'rsang gar lozim,
+\nShimni tez yech, kiyib ol lozim,
+\nSenga emas she\'rim, ovozim,
+\nMen mebelsiz xotin olaman.
+        </item>
+
+        <item>
+            Stipendiya kech kelar,
+\nKassir saralab berar,
+\nByudjetlarni puli bor,
+\nKantraktlar aybdor.
+\n
+\nArz qilamiz kimga ham,
+\nBankda ozi pullar kam.
+\nIsbot uchun har yili,
+\nDekan minar jiguli,
+\n
+\nFakultet der qulayman,
+\nOqimay ham o\'lay man.
+\nBalki shudir g\'alaba,
+\nZato bizlar TALABA
+        </item>
+
+        <item>
+            Osmonda qizlar uchganda,
+\nYigitlar lol qolarkan.
+\nQaytib yerga tushganda,
+\nAsta gapga solarkan.
+\nQizlarni ko\'rib qushlar,
+\nDaraxtga urilarkan.
+\nQarab turgan yigitlar,
+\nQotib - qotib kularkan.
+\nBir qiz o\'jarlik qilib,
+\nBalandroqqa uchibdi.
+\nSamalyotga urilib,
+\nYerga qulab tushibdi.
+\nYig\'layverib qizchaning,
+\nKo\'zi yoshga to\'libdi.
+\nBuni ko\'rib qolgan qizlar,
+\nUchmiydigan bo\'libdi!
+        </item>
+
+        <item>
+            Shu hozirgi zamonda,
+\nODNO degan tomonda,
+\nBir go\'zal qiz aylanib,
+\nO\'tibdi man tomonga.
+\n
+\nKirib ko\'rsam chiroyli ,
+\nQomatlari kelishgan,
+\nRasmiga yigitlar
+\nCho\'tki sherlar bitishan.
+\n
+\nMen ham srazi o\'tdim,
+            \nSms ka tashladim.
+\nDo\'stlashamiz deb aldab,
+            \nSo\'ng o\'rashni boshladim.
+\n
+\nUch kun o\'tmay oradan,
+\nUnga bog\'lanib qoldim.
+\n300 rubl sarflab,
+\nPadarka ham qivordim.
+\n
+\nOradan o\'tib kunlar,
+\nU ham sevgshin aytdi.
+\nUzoq suhbatlashardik,
+\nMana bir oy ham o\'tdi.
+\n
+\nKechalari uyqu yo\'q,
+\nTong ham otib ketardi.
+\nBir sutkada 24 soat,
+\nBizga kamlik qilardi.
+\n
+\nUni o\'zimga o\'rgatdim,
+\nUchrashuvga chaqirdim.
+\nKunin aniqlab darrov,
+\nNomerin ham yozvoldim.
+\n
+\nErtasi kun ertalab,
+\nUnga telefon qildim.
+\nBitta do\'stim ko\'tardi,
+\nBu men hazillashdim!!!
+        </item>
+
+        <item>
+            Omadim kelmadi TASHMIbobida
+\nInson goh ojizdur ballar oldida.
+\nO\'qishga kirolmay egildi boshim
+\nQuyilar bildirmay ko\'zimdan yoshim.
+\n
+\nSavollar osondur gohida qiyin
+\nInson o\'z variantin bilolmas tayin
+\nTurin, singapurga qilmay etibor
+\nKichik bir MEDPEDdan yiqilganim bor.
+\n
+\nG\'ijim variantlarni asta silayman
+\nO\'qishga kirganlarni baxtin tilayman
+\nDTM qiyin testlani qancha tuzmasin
+\nHech kimga azobli variant tushmasin!
+        </item>
+
+        <item>
+           Bizgacha ham olov bo\'lgan suv bo\'lgan,
+\nSizgacha ham ne-ne ohu ko\'z bo\'lgan.
+\nO\'zingizga bino qo\'ymang yaxshi qiz,
+\nYalmog\'iz ham yoshligida qiz bulgan
+        </item>
+
+        <item>
+            Bazilar sevadi qora qoshlar uchun
+\nbazilar sevadi uzun sochlar uchun
+\nbazilar sevadi boyligi uchun
+\nMen sizni sevan sof yurak uchun.
+\n
+\nSevsang sevgin bittasini
+\nIshontirma ikkitasini
+\nVa`da qilsang uchtasini
+\nZaynit qilma to`rtasini
+        </item>
+
+        <item>
+            Dushanbada biz tanishdik
+\nSeshanbada yana uchrashdik
+\nChorshanbada sovchi qo’yildi
+\nPayshanbada to’yimiz bo’ldi
+\nJumada biz qaymoq yalashdik
+\nShanbada biz qattiq talashdik
+\nYakshanbada jonimdan to’ydim
+\nDushanbada olib borib qo’ydim
+        </item>
+
+        <item>
+            Yig’layapman azizim, yig’layapman,
+\nQo’limda pichoq, yig’layapman.
+\nO’ylamang, sizni deb yig’laganim yo’q,
+\nOshxonada piyoz to’g’rayapman.
+        </item>
+
+        <item>
+            Tushlarimga kirmang uyqum qochadi
+\nXayolimga kelmang rangim o\'chadi.
+\nSizga sms yozsam javob kelmasa
+\nKetgan sentlarimga mazam qochadi !
+        </item>
+
+        <item>
+            Bu internet degani,
+\nFisq-u fasod olami.
+\nBir qarasang baʼzida,
+\nOdam emas odami.
+\n
+\nIzgʼiyverar mish-mishlar,
+\nBir-birin koʼrolmaydi.
+\nАqli kalta noshudlar,
+\nGʼiybatsiz turolmaydi.
+\n
+\nUlar shunchalar yuzsiz,
+\nGaplaringiz qilmas kor.
+\nYakuni nihoyasiz,
+\nEʼtibor bermang zinhor.
+\n
+\nDunyo yaralibdi-ki,
+\nShu narsa bordir azal-
+\nYiqitmoq urinarlar,
+\nKoʼtarilsang agar sal.
+\n
+\nBilib qoʼying boʼlmaydi,
+\nIgʼvogarlarning sogʼi.
+\nGʼiybatchining ogʼzidan,
+\nToza itning yalogʼi!
+\n
+\nEh, bundayin kimsalar,
+\nZalolatga botganlar.
+\nOʼzining nomus-orin,
+\nYigʼishtirib otganlar.
+\n
+\nIgʼvo, fitna, gʼiybatdan,
+\nBoʼlmangiz hech parishon.
+\nАhir unday "burga"lar,
+\nSoʼrar insondagi qon.
+\n
+\nGʼiybatchining kasriga,
+\nBordir tosh-u tarozi.
+\nMish-mishning hammasiga,
+\nVaqtdir eng oliy qozi!
+        </item>
+    </string-array>
+
+    <!--Aralash_lyric-->
+    <string-array name="aralash_lyric">
+        <item>Shirin orzularim topsaydi ruyo,
+\nQorong\'u yo\'limga taratgin ziyo.
+\nBaxtimga tug\'anoq bo\'lmasin dunyo,
+\nRobbim meni asra achchiq armonlardan.
+\n
+\nYiqilsam indamay o\'tguvchilar ko\'p,
+\nTursam yana yiqilishim kutguvchilar ko\'p.
+\nMen tomonga toshlar otguvchilar ko\'p,
+\nRobbim meni asra o\'sha yomonlardan.
+\n
+\nDo\'stingman deb ostonamda yotdilar,
+\nBitta dasturxonda tuzim totdilar.
+\nKeyin sirim dushmanimga sotdilar,
+\nRobbim meni asra shunday nodonlardan.
+\n
+\nBaxtli kunda soyam kabi sarsonlardan,
+\nOg\'ir kunda bir yuqlamas nodonlardan.
+\nNafs yo\'lida vijdonini sotar hatto,
+\nRobbim meni asra shunday shaytonlardan.
+\n
+\nJonim jonim diya jonni olib ketar,
+\nKulib turib ming azobga solib ketar.
+\nKo\'ngil olib so\'ng ko\'ngildan qolib ketar,
+\nMeni asra mehri soxta insonlardan.
+        </item>
+
+        <item>
+            Qalblarini yaralagan bu dunyo,
+\nAchchiq kunlarini bergandir qancha.
+\nHar kim istaydiku baxtli yashashni,
+\nQiynaydi faqatqina bitta zirapcha.
+\n
+\nBitta zirapcha ham umringa ziyon,
+\nBaxtli yashamoqni organgin buyon,
+\nOgirib yubordi chidolmas bu jon,
+\nOg\'ir ekan tikandey bir zirapcha.
+\n
+\nHayot berdi menga og\'ir kunlarni,
+\nUnuta olmasdik yomon yillarni,
+\nO\'zimiz bilmadik hayot yo\'llarni,
+\nBitta xato, yaratadi zirapcha.
+\n
+\nZirapchalar ketsin qaytib kelmasin,
+\nO\'gir kunlarimiz hech ham bo\'lmasin,
+\nTaqdir ustimizdan endi kulmasin,
+\nCharchadim, ket endi mendan zirapcha.
+        </item>
+
+        <item>
+            Or nomus yiglaydi iymon yiglaydi
+\nXatto norasida godak yiglaydi
+\nOila buzulishlar vijdon yiglaydi
+\nSizga nima boldi singillar
+\n
+\nYengil yashayman deb oshiqmang sira
+\nShirin sozga uchib adashmang sira
+\nYengiltaklik asli xunuk manzara
+\nAqlingizni yiging singillar
+\n
+\nBu xayot otkinchi jannat abadiy
+\nSavob qiyinchilik gunox yoqimli
+\nJannatga intiling bolmang dozaxiy
+\nSabirsiz gunoxkor bolmang singillar
+\n
+\nAka or nomusi Ota gururi
+\nBoling siz doimo jannatni xuri
+\nBesh kunlik otadi dunyo sururi
+\nOtangiz boshini egmang singillar
+\n
+\nYetim qilmang jajji farzandingizni
+\nSaqlang oyla gurur nomusingizni
+\nXudo korib turar xar ishingizni
+\nXudodan qorqinglar endi singillar
+        </item>
+
+        <item>
+            Gaz bermang,
+\nchiroqni oʼchiring tez-tez,
+\nYayrab yashamoqqa emasmiz loyiq.
+\nIstagan ishlarni qilingiz bu kez,
+\nBoʼgʼzingizga pichoq tortmas xaloyiq.
+\n
+\nHayvon tappisini yoqqan bechora
+\nHayvoncha qadrni topmasa nima?
+\nАsr oshsa hamki yuragi pora,
+\nChopmagan omadi chopmasa nima?
+\n
+\nSiz kunday munavvar, issiq ofisda,
+\nBaxtiyor turmushdan lof urgan mahal,
+\nQaysidir qishloqda zaharli isdan
+\nBirov oʼlsa, deymiz: taqdiri azal!
+\n
+\nTanchaga oyogʼin solgan bolakay,
+\nChunki sovuq uyda boʼlmas yugurib.
+\nIliq boʼlmas ekan xonadon tokay,
+\nKelajak chol kabi qolgay oʼtirib.
+\n
+\nTutun buruqsigan –
+\nqoraygan devor.
+\n(Аslida qoraygan toleʼ emasmi!?)
+\nOilaning teng yarmi bemajol bemor,
+\nTokchalar ustida dorilar bazmi.
+\n
+\nАfgʼonga nur bering, chekmasin figʼon,
+\nMayli, uyimizda chiroq boʼlmasin.
+\nZangori olovni men koʼrmay, tamom,
+\nXitoyning goʼdagi muzlab oʼlmasin.
+\n
+\nGaz bermang,
+\nchiroqni oʼchiring tez-tez,
+\nSovuqdan titragan siz emas, menman!
+\nBir ertak diyorni topsaydim bu kez,
+\nErtak boʼlsa boʼlsin, u yerdan kelmam!
+        </item>
+
+        <item>
+            Salom bering va lekin
+\nYaqiniga bormanglar.
+\nAssalomu alaykum,
+\nG\'iybatchilar, hormanglar!
+\n
+\nErkaksifat xotinlar,
+\nXotinsifat erkaklar.
+\nXabari yo\'q o\'zidan,
+\nKo\'ringanni ermaklar.
+\n
+\nTo\'qiyvering gap-to\'rlar,
+\nO\'zingizdan ortmanglar.
+\nAssalomu alaykum,
+\nG\'iybatchilar, hormanglar!
+\n
+\nPismiqlar, muloyimlar,
+\nAy, siz irkit jo\'jalar,
+\nAy, bekorchioyimlar,
+\nAy, bekorchixo\'jalar!
+\n
+\nMenga qolsa barini
+\nBirma-bir bosar edim.
+\nKattaroq bir asbobga
+\nTilidan osar edim.
+\n
+\nZamon ko\'tarmas lekin
+\nMayli, yaqin bormanglar.
+\nAssalomu alaykum,
+\nG\'iybatchilar, hormanglar!
+        </item>
+
+        <item>
+            Sen ketding dil bog\'imdan
+\nEndi qanday yashayman
+\nBaxtli edim kecha men
+\nTush ko\'rganga o\'xshayman
+\n
+\nSho\'xlik qilsam gox koyib
+\nSevinsam menla boyib
+\nQucharding to\'yib-to\'yib
+\nTush ko\'rganga o\'xshayman
+\n
+\nSen eding qalb malxami
+\nO\'pib-o\'pib san mani
+\nLabimda bo\'sa tami
+\nTush ko\'rganga o\'xshayman
+\n
+\nShirin-shirin gaplaring
+\nShirin-shirin aldading
+\nQaynoq-qaynoq kaftlaring
+\nTush ko\'rganga o\'xshayman
+\n
+\nNafasing o\'tli kundek
+\nKo\'zlaring qaro tundek
+\nBaxt xam bir qisim qumdek
+\nTush ko\'rganga o\'xshayman
+\n
+\nSen ketding dil bog\'imdan
+\nEndi qanday yashayman
+\nBaxtli edim kecha men
+\nTush ko\'rganga o\'xshayman
+        </item>
+
+        <item>
+            Shaytonning chin quli bo\'lib,
+\nyonida xaq yo\'li turib.
+\nCho\'ntak to\'la puli turib,
+\nyetim haqqin yeganlar ko\'p.
+\n
+\nBugun misli jigar bo\'lib,
+\nG\'am-u darding yeganlar ko\'p,
+\nkamchiliging bilib olib,
+\nchetdan zarba berganlar ko\'p.
+\n
+\nzamon og\'ir borgan sari,
+\nxatto or-nomus badani,
+\npulga alishgan vatanin
+\ninsofini yeganlar ko\'p.
+\n
+\nBir paytlar ko\'ksin kerib
+\noyoq osti bilganlar ko\'p,
+\nkuning unib, boshin egib,
+\nKelib ta\'zim qilganlar ko\'p.
+\n
+\nNomardlarga yo\'liqganda,
+\nyoqa ushlab qolganlar ko\'p.
+\nXudo xaqqi qasam ichib,
+\nqasamidan tonganlar ko\'p.
+\n
+\nO\'zing asra Ey xudoyim,
+\nich-etin yeb Yotganlar ko\'p,
+\nXatto Siniq Qalamimga,
+\nHasad ko\'zin, otganlar ko\'p.
+        </item>
+
+        <item>
+Suyganingiz o\'zgalarga,ko\'z suzmasin,
+\nSo\'ramasdan,ko\'cha ko\'yda,hech yurmasin,
+\nO\'zgalarning yonlarida,yo\'q turmasin,
+\nYoringizga qattiq turing,rashq bobida!
+\n
+\nBefarq bo\'lmang,gulingizga yoringizga,
+\nOlib yuring,hayo bilan,yoningizda,
+\nQizg\'oningiz shiddat bo\'lsin qoningizda,
+\nYoringizga qattiq turing,rashq bobida!
+\n
+\nYozilganku Bobolarning kitobida,
+\nDoim aytar qorilarham hitobida,
+\nKo\'p gunohga botajaksiz  ,yoqsa agar,
+\nAqlliroq bo\'lmasangiz,rashq bobida!
+\n
+\nKo\'cha ko\'yga chiqsa qayga,deya so\'rang,
+\nKiygan kiyim,libosiga doim qarang,
+\nAyting unga,soch bo\'yamang,ro\'mol o\'rang,
+\nDayus bo\'lmang yoringizga,rashq bobida!
+\n
+\nShoxrux hayron qolar doim,zamonlarga,
+\nO\'zga yorlar bilan,yurgan haromlarga,
+\nO\'xshamangiz rashqni bilmas yomonlarga,
+\nYoringizga sergak turing rashq bobida!
+\n
+\nRashqi yo\'qlar kirmagaydir jannatlarga,
+\nOllohimdan qolar qattiq lanatlarga,
+\nLoyiq bo\'ling jannat to\'la nematlarga,
+\nYoringizga qattiq turing,rashq bobida!
+        </item>
+
+        <item>
+            Yomg\'ir yog\'ar takror va takror,
+\nUyqu eltadi kipriklarimni
+\nVa nogoh tush ko\'raman uzundan uzoq
+\nUyg\'onib ketaman xorg\'in olib tin
+\nHayot jumboqlarin yecha olmay xun
+\nKimnidir ayibdor etaman bu kun
+\nMahzun laxzalarda ko\'glimgan kirgan,
+\nBir iliq tuyg\'uga bo\'laman maftun
+\nYomg\'ir yog\'aver yog\'aver ko\'roq
+\nYuvib ket ko\'limni charchoqlarini
+\nQalbimda qolmasin qolmasin biroq
+\nMen yozay hayotni ardoqlarini
+        </item>
+
+        <item>
+            Manman bo\'lma ey uluğ inson,
+\nHam quyoshu oyimiz bitta.
+\nXox gado bo\'l va yoki bir xon,
+\nKetadigan joyimiz bitta.
+\n
+\nIshonyapsan boylikka hamon,
+\nTanho yerda soyimiz bitta.
+\nBo\'lsang xoqon yo qaddi osmon,
+\nJavob berar joyimiz bitta.
+\n
+\nOdam ato va momo havo,
+\nO\'ylab ko\'rsang onamiz bitta.
+\nBizlar o\'xshash aslida juda,
+\nDunyo degan xonamiz bitta.
+\n
+\nYasholmaymiz har vaqt baxtiyor,
+\nXato qilsak qolamiz o\'tda.
+\nSajdaga bosh qo\'ymay o\'lma,to,
+\nQIBLA degan yonamiz bitta!
+        </item>
+
+        <item>
+            Dilimni og\'ritsa dil begonalar
+\nKo\'nglimni og\'ritsa goh begonalar
+\nGunohim to\'ktimku savobin oldim
+\nBarchasin birma bir hudoga soldim
+\n
+\nDushmanim ortimdan tuhmadlar otar
+\nCHin do\'stim pul uchun vijdonin sotar
+\nQaytar dunyo ahir birkuni qaytar
+\nBarchasin birma bir hudoga soldim
+\n
+\nUnutdim yuragdan alam g\'amlarni
+\nKechirdim juda ham ko\'p odamlarni
+\nHudoyim kechirsa Bo\'ldi ularni
+\nBarchasin birma bir hudoga soldim
+\n
+\nSabriy hafa bo\'lma bast yetar dedim
+\nUlardan olmagin Bo\'ldi qast dedim
+\nQaytib qolar ahir qaytadi dedim
+\nBarchasin birma bir hudoga soldim
+        </item>
+
+        <item>
+            Inson go\'zal dil bilan go\'zal
+\nBitta shirin so\'z bilan go\'zal
+\nKo\'ngil bilan qalb bilan go\'zal
+\nMansab bilan go\'zalmas inson
+\n
+\nYurishlari turli bo\'lakcha
+\nMayli bo\'lsin nozik bilakcha
+\nTaqib olsin qimmat zirapcha
+\nChiroy bilan go\'zalmas inson.
+\n
+\nKarillaydi mushtim zo\'rku deb
+\nHar bir joyda ishim halku deb
+\nMenga tengi qani bormi deb
+\nSavlat bilan go\'zalmas inson.
+\n
+\nHamma narsa o\'tkinchi sabriy
+\nFaqat qilgin ho\'pmi yahshilik
+\nHar insonga bo\'lgin mehrli
+\nKo\'ngil bilan go\'zaldur inson
+        </item>
+
+        <item>
+            Gohida quvnoqman gohi g\'amginman
+\nGohida baxtliman gohi tushkunman
+\nO\'zimga men o\'zim tushunmay qoldim
+\nBalkim sizni sog\'ingandurman.
+\n
+\nKo\'zlarimda rang yo\'q quvonch yo\'q
+\nHayotimda maqsad ishonch yo\'q
+\nHasta dilga bitta yupanch yo\'q
+\nBalkim sizni sog\'ingandurman.
+\n
+\nBiz yurgan yo\'llardan yurgim kelyabdi
+\nYoningizda birzum turgim kelyabdi
+\nYana qayta sizni sevgim kelyabdi
+\nBalkim sizni sog\'ingandurman.
+        </item>
+
+        <item>
+            Ketish kerak edi osmon yoqalab,
+\nZamin deganlari hammadan qolgan.
+\nNe holki har safar jonni orqalab,
+\nYana yuragimga qaytib kelaman.
+\n
+\nMuxabbat - degani topilmagan dur,
+\nMuxabbat - osmonga ko\'milgan tilsim.
+\nUning tog\' uyasu yuragimdadur,
+\nBemavrid yolg\'onga ochilma sim sim.
+\n
+\nKo\'zlarim ko\'rmaydi, tillarim soqov,
+\nIchikkan qalbimga alla aytaman.
+\nKul bosgan dunyoga nigohim kosov,
+\nTaqdirga o\'t qalab, dilga qaytaman.
+\n
+\nMendayin kulmagan bormi azizam?,
+\nTunlari uyqashgan, kunduzi so\'roq.
+\nIshonma juda ko\'p yashadim desam,
+\nBaxtli kunlarimdan soniyam ko\'proq.
+        </item>
+
+        <item>
+            Suymaganga suykalma,
+\nSog\'intirar sani so\'ng.
+\nSevib so\'ngra suyunma,
+\nSahro siylar sani so\'ng.
+\n
+\nSoyni siltab sen sovuq,
+\nSahroda suv sog\'inma.
+\nSoz sevgini sev sodiq,
+\nSevmaganga suykalma.
+        </item>
+
+        <item>
+            Ey yurak ketaylik butkul bosh olib,
+\nBizni tushunmaydi inson bolasi.
+\nUlarning tashvishi faqat manfaat,
+\nOqibat begona odamlar uchun.
+\n
+\nYuzingga Qarab turib jilmayganicha,
+\nKo\'ksingga tig\' qadar d6stman deganlar.
+\nsoxta mexr, soxta tuyg\'u misli daryodir,
+\noqibat begona odamlar uchun.
+\n
+\nDard bilan yig\'laysan qiynalgaydursan,
+\nGoh yo\'qchilik dardi ham ko\'ngling chirtganda
+\nNe ham qo\'limizdan kelar edida,
+\nOqibat begona odamlar uchun.
+\n
+\nDunyoda yashayapmiz barcha qatori,
+\no\'zimizdan o\'tganin o\'zimiz bilib,
+\nShunga amin bo\'ldik dunyoga kelib,
+\noqibat begona odamlar uchun.
+\n
+\nYiqilsang ustingdan kulishga tayyor,
+\nNajotsiz qushdan Pat yulishga tayyor,
+\no\'zlarini foydasiga tulkidan ayyor,
+\nOqibat begona odamlar uchun.
+        </item>
+
+        <item>
+Men uchun tabassum qilsin shu labing,
+\nMen uchun bahorday ochilsin qalbing,
+\nHar bir nafasingni ma’nosi bo‘lay,
+\nSevgilim, men uchun ursin yuraging.
+\nIsmimni takrorla hatto tushingda,
+\nDoim, o‘zim bo‘lay aqlu hushingda,
+\nDunyolarni izlab qalbingdan topdim,
+\nEndi sen ham meni bir bor tushun-da.
+        </item>
+
+        <item>
+            Kecha Xudoman deb xayqirgan gumroh,
+\nBugun tobutida jim yotur, e voh.
+\nZabonimdan shu bayt toʼkildi nogoh,
+\nQaqshatqich boʼlarkan Аlloh qasosi.
+\n
+\nKoʼngli buyurganni tushirib paqqos,
+\nKecha dollarlarga koʼmilgan raqqos.
+\nBugun muxtojlikda, aylasam taqqos,
+\nQaqshatqich boʼlarkan, Аlloh qasosi.
+\n
+\nKecha tanin sotgan janona bir qiz,
+\nBugun xech kimi yoʼq juvondir yolgʼiz.
+\nUni xarob etmish xirsdek yalmogʼiz,
+\nQaqshatqich boʼlarkan, Аlloh qasosi.
+\n
+\nKecha oʼz Otasin urgan padarkush,
+\nBugun oʼz oʼgʼlidan yeb turibdi musht.
+\nKoʼzlaridan yomgʼir toʼkmoqda xomush,
+\nQaqshatqich boʼlarkan Аlloh qasosi.
+\n
+\nKecha farzandidan voz kechgan beor,
+\nBugun koʼring endi, tirnoqqadir zor.
+\nKoʼnglin qasri boʼlmish butunlay tor-mor,
+\nQaqshatqich boʼlarkan Аlloh qasosi.
+\n
+\nKecha yigʼlab oʼqib Kalomullohni,
+\nBugun unutganlar bordir Аllohni.
+\nShular qularlarda koʼrmasdan choxni,
+\nQaqshatqich boʼladi Аlloh qasosi.
+\n
+\nKecha oʼz xalqini qustirganlar qon,
+\nBugun azobdadir berolmasdan jon.
+\nTomogʼidan oʼtmas bir tishlam xam non,
+\nQaqshatqich boʼlarkan Аlloh qasosi.
+\n
+\nKecha oʼzimni xam tanimas edim,
+\nBugun Xudoyimni tanidim, sevdim!
+\nKoʼzim ochildi-yu, shu onda sezdim,
+\nQaqshatqich boʼlarkan Аlloh qasosi.
+        </item>
+
+        <item>
+            Musofirda yurgan akamni asra,
+\nYuzing yorugʼ qil, quruq qaytmasin.
+\nBoshini egmagin sirayam, aslo,
+\nEntikib noligan soʼzlar aytmasin.
+\n
+\nBu yil toʼy qilaman degandi ular,
+\nYaxshi niyat bilan ketgandi chiqib.
+\nBilaman uxlamay chiqyapti tunlar,
+\nYelkasiga shamol tegsin ishqilib.
+\n
+\nMusofirda yurgan ukamni asra,
+\nYosh boʼlib boʼyniga oldi roʼzgʼorni.
+\nKetmon chopmagandi hech biror marta,
+\nMaydalab yurganmish u yerda togʼni.
+\n
+\nIshlab kelaman deb otlangandi u,
+\n Biror nafim tegsin degandi uyga.
+\nMashina olishni qilgandi orzu,
+\nQaytaman degandi keyingi yilga.
+\n
+\nMusofirda yurgan opamni asra,
+\nKoʼzi qiymay ketgan farzandlarini.
+\nKoʼzidan oqmasin koʼz yosh bir qatra,
+\nGap soʼzdan omon qil, saqla qadrini.
+\n
+\nMusofirda yurgan singlimni asra,
+\nJonidan oʼtgandi mish mishlar ketdi.
+\nSafarga chiqmasdi oʼziga qolsa,
+\nOyoqqa turgin deb koʼpchilik aytdi.
+\n
+\nQaerda boʼlsa ham qondosh jigarim,
+\nYumushi boshidan oshib ketsa ham.
+\nKutganlarni koʼngli boʼlmasin yarim,
+\nHammasini oʼzing asrab ber, Egam!
+        </item>
+
+        <item>
+            Uzoqdan g\'ira- shira ko\'rinar quyosh
+\nCho\'kib borar tugaganday unda bardosh
+\nKuzatib turaman yelkamda bir bosh
+\nBor axir yonimda go\'zal - qalam qosh
+\n
+\nSochlari uzun tovlanar tunda
+\nYulduzlar uyg\'onib ko\'rdilar shunda
+\nBundayin chiroyni ko\'rganlar qayda
+\nUchramas aslo,- boshqa bir jonda
+\n
+\nBilmasdik qaydamiz pinhon
+\nSururbaxsh bu qandayin makon
+\nGo\'yo berar jannatdan nishon
+\nDilim xushdir, tilim esa hayron
+\n
+\nO\'tirardik bepayon yaylovlar ichra
+\nMaysa-yu gullari belimiz quchgan
+\nLablar tutashib bir-birin o\'pgan
+\nBaxt ham iqbolin nihoyat topgan
+        </item>
+
+        <item>
+Ojizangni xoʼrlatib qoʼyma,
+\nHar gapingni ming oʼylab soʼyla.
+\nHozirnimas, keyining oʼyla,
+\nErligingni unutma erkak!
+\n
+\nLafz qildingmi, uddala doim,
+\nOmadingni berar Xudoyim.
+\nBoʼlmasidan qiyomat qoim.
+\nErligingni unutma erkak!
+\n
+\nGʼiybat qilma, yarashmas senga,
+\nOri yoʼq deb qarashmas senga,
+\nBu hayotga kelgansan, nega?
+\nErligingni unutma erkak!
+\n
+\nMaydalashma, maydalar bilan,
+\nOgʼir kunda topolgin chidam.
+\nKam emassan asli xech kimdan
+\nErligingni unutma erkak!
+\n
+\nPadaringa loyiq inson boʼl!
+\nOnan uchun har dam imkon boʼl!
+\nTanlay olgin faqat toʼgʼri yoʼl.
+\nErligingni unutma erkak!
+\n
+\nVaʼda bersang bajarib yurgin,
+\nQabix ishdan yuzingni burgin.
+\nHalol yashab davringni surgin.
+\nErligingni unutma erkak!
+\n
+\nSoʼzlaringni subiti boʼlsin,
+\nBolang seni oʼzida koʼrsin,
+\nАyoling ham seni deb yursin,
+\nErligingni unutma erkak!
+\n
+\nKeyin boʼlar davrada hurmat,
+\nIzzatingni qilar har ulfat,
+\nBoʼlay desang eng yaxshi ummat,
+\nErligingni unutma erkak!
+        </item>
+
+        <item>
+            Bir qo\'lda Qur‘oni bittasida jom,
+\nGohida halolmiz goxida xarom.
+\nFiruza gumbazli osmon ostida,
+\nNa chin musulmomiz, na kofir tomon.
+\n
+\nAzaldan loyimni qorganda xudo,
+\nBilardi fe\'limdan ne bo\'lur paydo.
+\nXukmidan tashqari emas gunohim,
+\nNe uchun maxsharda beradi jazo.
+\n
+\nO\'zni dono bilgan uch-to\'rtta nodon,
+\nEshshak tabiatin qilur namoyon.
+\nUlar suxbatida sen ham eshshak bo\'l,
+\nYo\'qsa kofir deya qilurlar e\'lon.
+        </item>
+
+        <item>
+            Har bir banda xayrlashar, dunyodan,
+\nSen ham, men ham tark etamiz, bilib qoʼy!
+\nUmrib tugab sendan avval, men oʼlsam,
+\nOʼtinaman, janozamga kelib qoʼy!
+\n
+\nBu jasadim yerdan manzil olgan chogʼ,
+\nHamma meni tashlab ketar bilib qoʼy!
+\nSendan avval bu koʼzlarim yumulsa,
+\nOʼtinaman, menga duo kilib qoʼy!
+\n
+\nTaqdir azal yosh ekan deb, boqmasdan,
+\nOʼlim kelar zinhor eshik qoqmasdan,
+\nUshbu navbat menga yetib kelganda,
+\nOʼtinaman, menga Qurʼon oʼqib qoʼy!
+\n
+\nInson oʼlgach uning uchun qiyomat,
+\nMen haqimda yaxshi soʼzlar toʼqib qoʼy!
+\nMening tanho qiyomatim boʼlganda,
+\nOʼtinaman, Salovatlar oʼqib qoʼy!
+\n
+\nTanim muzlab, yoshim qotib qolganda,
+\nRobbim Аlloh omonatin olganda,
+\nJonsiz tanam tuproqlarni quchganda,
+\nYolvoraman, menga duo qilib qoʼy!
+        </item>
+
+        <item>
+            Holiga tushuning, otalar,
+\nOyog\'i kuygandek chopyapti,
+\nNon tishlab jo\'nating, onalar,
+\nBolangiz sessiya yopyapti.
+\n
+\nO\'qishga chog\'lansa tong sahar,
+\nYaxshi bor, derdingiz har mahal,
+\nQuruq gap kerakmas bu safar,
+\nBolangiz sessiya yopyapti.
+\n
+\nKuyunmang, kirtayib, ozisa,
+\nOlifta sochlari to\'zisa,
+\nBularni qilmaydi o\'zicha,
+\nBolangiz sessiya yopyapti.
+\n
+\nBor bo\'lar yaxshilik bor joyda,
+\nGadoyni siylaydi bu oyda,
+\n(Bor bo\'lsa, duodan bor foyda!)
+\nBolangiz sessiya yopyapti.
+\n
+\nNimalar kelmaydi o\'yiga,
+\nTushsangiz bilasiz ko\'yiga,
+\nBesh-o\'n kun bormaydi uyiga,
+\nBolangiz sessiya yopyapti.
+\n
+\nQizg\'onmang, uch tanga, to\'rt tanga,
+\nDarslarda bormasin man-sanga,
+\nYiqilib kelsa ham so\'kmang, a?!
+\nBolangiz sessiya yopyapti.
+\n
+\nTun-u kun qilingiz ibodat,
+\nMobodo ko\'rmasdan talofat,
+\nSog\' chiqsa, boradi salomat,
+\nBolangiz sessiya yopyapti.
+\n
+\nHoliga tushuning, otalar,
+\nOyog\'i kuygandek chopyapti,
+\nNon tishlab jo\'nating, onalar,
+\nBolangiz sessiya yopyapti.
+        </item>
+
+        <item>
+            Yoningda kulib turib,
+\nKeyin g\'iybat qilishar,
+\nDardlaring bilib turib,
+\nUstingdan ham kulishar,
+\nQilmagan ishinga ham
+\nHatto tuhmat qilishar,
+\nYIQILSANG ULARGA QIZIQ TOMOSHA.
+\n
+\nDam öbroying ular körolmaydilar,
+\nQalbinga g\'am tokib to\'yolmaydilar,
+\nBirovning dardini öylolmaydilar,
+\nYIQILSANG ULARGA QIZIQ TOMOSHA.
+\n
+\nQöyib bersang oyog\'ing chalib töyishmas,
+\nEndi yashay deganda tinchlik berishmas,
+\nBotir ning qandayligin ular bilishmas,
+\nYIQILSAM ULARGA QIZIQ TOMOSHA.
+\n
+\nEy Botir ali ogoh bölgin dam,
+\nHayotda köp uchrar ich qora odam,
+\nBu xayot ertakmas shuni bilgin ham,
+\nYIQILSANG ULARGA QIZIQ TOMOSHA.
+        </item>
+
+        <item>
+            Kun kelar siz yig\'laysiz men kulaman,
+\nKun kelar baxt iqbollarga to\'laman.
+\nKun kelar meni unutsangiz ham,
+\nKun kelar sizdan baxtli bo\'laman.
+\n
+\nHozirgi ahvolimni bir tentak dersiz,
+\nBaxtingizni go\'yo keng falak dersiz.
+\nMeni o\'ylab baxsiz bir yurak dersiz,
+\nKun kelar men sizdan baxtli bo\'laman.
+\n
+\nHali meni qumsab izlar kun kelar,
+\nSog\'inib o\'rtanib bo\'zlar kun kelar.
+\nHali haqiqatni so\'zlar kun kelar,
+\nKun kelar men sizdan baxtli bo\'laman.
+\n
+\nMayliga siz meni bir gado biling,
+\nIshq sabab qomatim bir yomon biling.
+\nRostmana sevgimni siz xato biling,
+\nKun kelar men sizdan baxtli bo\'laman.
+\n
+\nBag\'rimda shod kezar baxtim shamoli,
+\nVujudga ko\'milar g\'amning zavoli.
+\nIchingiz yondirar yorim jamoli,
+\nKun kelar men sizdan baxtli bo\'laman.
+        </item>
+
+        <item>
+            Mayli bo\'lsang savdoda kasod,
+\nMayli shoxmas bo\'laversang mot.
+\nIjaraga berilmas xayot,
+\nChimildiqda aldanma yigit.
+\n
+\nBir bor bolsin sotilgan tana,
+\nKim kafildir sotilmas yana.
+\nTanlayapsan bolangga ona,
+\nChimildiqda aldanma yigit.
+\n
+\nXayot yoli qaro birla oq,
+\nGʼuncha o\'rnin bosmaydi yantoq.
+\nChaqmasin deb boshingda yongʼoq,
+\nChimildiqda aldanma yigit.
+\n
+\nXudo suysin senday bandani,
+\nChirik deya chirik olmani.
+\nYor qilmagin ul sharmandani,
+\nChimildiqda aldanma yigit.
+\n
+\nGul misoli so\'lmayin desang,
+\nElga kulgu bo\'lmayin desang.
+\nАrmon bilan o\'lmayin desang,
+\nChimildiqda aldanma yigit.
+\n
+\nTemirni teng ko\'rma oltinga,
+\nBexayoni qo\'yma oldinga.
+\nQizgamas juft boʼlib xotinga,
+\nChimildiqda aldanma yigit.
+        </item>
+
+        <item>
+            Onamni yigʼlatma, ey ogʼir kismat,
+\nYolvoray kelganda oʼzimga fursat.
+\nBoshiga solganim yetadi kulfat,
+\nQaytsam poylarini tavof qilaman.
+\nOnamga qadrdan qasr quraman.
+\n
+\nYosh edim, bilmasdan jinoyat qildim,
+\nOtamni yuragin pichoqsiz tildim.
+\nUlarning boʼyniga laʼnatni ildim,
+\nQaytsam poylarini tavof qilaman.
+\nOnamga kadrdan qasr quraman.
+\n
+\nToʼrt devor ichida oʼtmoqda kunim,
+\nАlmashib qolganday kun bilan tunim.
+\nOʼtib ketmoqdadir gullagan umrim,
+\nQaytsam faqat yaxshi ishlar qilaman.
+\nIchimdan oʼtganin oʼzim bilaman.
+\n
+\nDoʼstlarim qadriga yetmagan edim,
+\nToʼgʼri yoʼl koʼrsatsa noxaqsan dedim.
+\nSoxta doʼstlarimdan rosa pand yedim,
+\nQaytsam yaqinlarim xursand qilaman.
+\nUlar voz kechmaydi, yaxshi bilaman.
+\n
+\nBilmabman ozodlik qadr qimmatin,
+\nNazarga ilmabman qilgan himmatin.
+\nQamoq sindirarkan erkak qudratin,
+\nQaytsam hayotimni boshqa quraman.
+\nElimning xizmatin qilib yuraman.
+        </item>
+
+        <item>
+            Onam sizga quloq solmay hato qildim,
+\nYosh jonimni azoblarga ato qildim.
+\nEndi bildim adashganim endi bildim,
+\nKambagalni qizin sevsam bo\'lar ekan.
+\nBoyning qizi yuragimni yoqib ketti,
+\nSoylar soyga boylar boyga boqib ketti.
+\nKo\'z yoshlarim daryo daryo oqib ketti,
+\nKambagalni qizin sevsam bo\'lar ekan.
+\nKo\'ngil ekan ne savdolar tushdi boshga,
+\nTaqdirmi yo o\'zim sabab ko\'zda yoshga.
+\nKelib kelib dil beriibman bagri toshga,
+\nKambagalni qizin sevsam bo\'lar ekan.
+\nBoring desam bordingiza sovchi bo\'lib,
+\nOstonadan qaytardilar hafa qilib.
+\nYigladingiz yuragingiz to\'lib to\'lib,
+\nKambagalni qizin sevsam bo\'lar ekan.
+\nBu kunlarni yuragimdan o\'chirmayman,
+\nMayli meni umid gulim so\'lar ekan.
+\nSizni hafa qilganlarni kechirmayman,
+\nKambagalni qizin sevsam bo\'lar ekan.
+\nBir qiz toping mayli ko\'kda oy bo\'lmasin,
+\nYuragida hiyonatga joy bo\'lmasim.
+\nO\'tinchim bor,boy bo\'lmasin boy bo\'lmasin,
+\nKambagalni qizin sevsam bo\'lar ekan.
+        </item>
+
+        <item>
+            Uzoq yurdik hayot yoʼlidan,
+\nKimni obod, kimni xor etdik.
+\nTopganimiz bilmay omonat,
+\nYoʼqotganda qadriga yetdik.
+\n
+\nQoʼrqoq dedik andisha qilsa,
+\nKibor boʼlsa egaverdik bosh.
+\nАldadilar, aldadik biz ham,
+\nYolgʼonlarda oʼtib ketdi yosh.
+\n
+\nDo\'stni sotdik narxi kelishsa,
+\nNe qilmadik foydani koʼzlab.
+\nXaqqi tuproq koʼzimiz tuymay,
+\nBoraverdik qalbimiz muzlab.
+\n
+\nАlla aytdik, mudradi iymon,
+\nSoʼng shaytonni oʼpdik poyini.
+\nNecha kimni dodlatib ketdik,
+\nIchib turib shirin choyini.
+\n
+\nXar qadamda bolalar gunox,
+\nSavob bilan oʼtdik soʼrashmay.
+\nDavra qurdik tenglarni topib,
+\nTeng kelmasa qatorga qoʼshmay.
+        </item>
+
+        <item>
+            Agar sizni hayot sinasa
+\nOrzu dard bilan siylasa
+\nQalbingizni gumon qiynasa
+\nSabr qiling bari o\'tadi.
+\n
+\nDo\'stlaringiz aldab ketsa ham
+\nJoningizdan o\'tib ketsa g\'am
+\nTo\'g\'ri bir oz qiladi alam
+\nSabr qiling bari o\'tadi.
+\n
+\nBoshingizga tushsa tashvishlar
+\nTuxmat bilan otilgan toshlar
+\nBo\'g\'zingizga kelsa mish-mishlar
+\nSabr qiling bari o\'tadi.
+\n
+\nG\'am silasa mag\'rur boshingiz
+\nGoh minnatli yegan oshingiz
+\nNomardlarga tushsa ishingiz
+\nSabr qiling bari o\'tadi.
+\n
+\nKulib turgan do\'stingiz sotsa
+\nSevganingiz sevgingiz sotsa
+\nYo\'l topolmay boshingiz qotsa
+\nSabr qiling bari o\'tadi.
+\n
+\nHayot sinar barcha insonni
+\nYengarmikan deya yolg\'onni
+\nUnutmaylik Parvardugorni
+\nSabr qiling bari o\'tadi.
+        </item>
+
+<item>
+    Baxtli ko’rdim seni uzoqdan,
+\nUzoqlardan seni tanidim.
+\nOxiri yo’q mangu firoqdan,
+\nShu bir lahza uzoqda bo’ldim.
+\n
+\nNaqadar baxt! Tabassumingdan
+\nTopa oldim katta armonni.
+\nO’zi seni ketgan kuningdan,
+\nHijron o’ti yoqardi jonni!
+\n
+\nO’sha onda yuragimda qon,
+\nQanchalar tez oqardi hayhot!
+\nGoh baxtingdan topardim quvonch,
+\nGoh armoning ezardi behad.
+\n
+\nSo’ng indamay qaytdim yo’limdan,
+\nBaxtingga chang solib netaman.
+\nBaxting tilash kelsa qo’limdan,
+\nO’lgunimcha shunday o’taman!
+</item>
+
+        <item>
+            Yig\'lamang sinovlar yog\'ilsa har kun,
+\nYig\'lamang dard sizni qiynasa tinmay.
+\nYig\'lang, shahodatsiz to\'htasa zabon
+\nYig\'lang ajal yetsa-yu, kirmasa iymon.
+\n
+\nYig\'lamang tuhmatlar boshga yog\'ilsa,
+\nNomard otgan payxon nishon tegsa.
+\nYig\'lang nafs deya sotilsa vijdon
+\nYig\'lang ajal yetsa-yu, kirmasa iymon.
+\n
+\nYig\'lamang, sevgan yor aylasa jafo,
+\nYig\'lamang dunyoni tark etsa vafo.
+\nYig\'lang o\'g\'il otani bag\'rin qilsa qon,
+\nYig\'lang ajal yetsa-yu, kirmasa iymon.
+\n
+\nYig\'lamang dunyoni suv bossa butkul
+\nYig\'lamang shaharlar yonib bo\'lsa kul.
+\nYig\'lang qabrni cho\'g\' aylasa makon,
+\nYig\'lang ajal yetsa-yu, kirmasa iymon.
+\n
+\nYig\'lamang boy berib qo\'ysa mansabni,
+\nYig\'lamang ey do\'stim asrang asabni,
+\nYig\'lang qiyomatga yuz tutsa zamon
+\nYig\'lang ajal yetsa-yu, kirmasa iymon.
+\n
+\nYig\'lang fahshu zino bo\'lsa hukmron,
+\nYig\'lang insonda bo\'lmasa mehr,
+\nYig\'lang ishingizda bosh bo\'lsa shayton,
+\nYig\'lang ajal yetsa-yu, kirmasa iymon.
+        </item>
+
+        <item>
+            Yolg‘izlikdan juda qo‘rqaman,
+\nYolg‘izlikda adolat yo‘qdir.
+\nKo‘zlaringga tikilib turib,
+\nHaqiqatni aytar birma-bir.
+\n
+\nOvutmoqchi bo‘lasan o‘zni,
+\nSamolarga tikasan ko‘zing.
+\nO‘ksib-o‘ksib yig‘laging kelar,
+\nNegaligin bilmaysan o‘zing.
+\n
+\nOlislarga termulasan jim,
+\nShamollarga ko‘ngil yorasan.
+\nKetging kelar bosh olib, biroq
+\nBu bosh bilan qayga borasan.
+\n
+\nHech narsadan to‘lmaydi ko‘ngling,
+\nYuragingni nimadir o‘rtar.
+\nYuzlaringda siniq tabassum,
+\nKulgularing yig‘idan battar.
+\n
+\nYolg‘iz qolgan odamga qiyin,
+\nYengib bo‘lmas sukunat yukin.
+\nYolg‘iz qolgan odam hattoki,
+\nSen haqingda o‘ylashi mumkin.
+        </item>
+
+        <item>
+            Xech qanday xis qolmagan qalbda.
+\nMenga yot xislatdur xayajon.
+\nXayotga yengildim, yengildim dardga.
+\nYoshlikni sog\'indim Onajon.
+\n
+\nSoxta nigoxlardan bezib qolganman.
+\nPichoqdek sanchilar tanamga bu jon..
+\nKattalikdan juda tolganman.
+\nYoshlikni sog\'indim onajon.
+\n
+\n30 ga kirmasdan, yuzdan oshgandek.
+\nSabr to\'lib, toqat toshgandek.
+\nOrtimdan kafanlik quvib shoshgandek.
+\nYoshlikni sogʻindim onajon.
+        </item>
+
+        <item>
+            Sevgi sochni silashlar emas,
+\nTelefonda so\'zlashlar emas,
+\nSansirash-u sizlashlar emas,
+\nKechirasiz, sevgi bundaymas.
+\n
+\nSuykalashib suyishlar emas,
+\nOnash, begim deyishlar emas,
+\nFaqat rashkda kuyishlar emas,
+\nKechirasiz, sevgi bundaymas.
+\n
+\nQo\'l ushlashib yurishlar emas,
+\nDahanaki urishlar emas,
+\nHar kun izhor qilishlar emas,
+\nKechirasiz, sevgi bundaymas.
+\n
+\nYolg\'on ishqni ishq deya tanlab,
+\nShu ishqqa ishonib yor saylab,
+\nUmrbod yashamang attanglab,
+\nKechirasiz, sevgi bundaymas.
+\n
+\nSiz o\'ylagan sevgimas opa,
+\nSiz o\'ylagan-oddiy bir havas,
+\nSiz o\'ylagan sevgimas aka,
+\nSiz o\'ylagan - insoniy bir nafs.
+\n
+\nHozir aytgan bu gaplarimni
+\nBoshqa hech kim sizlarga aytmas.
+\nLek uyat bo\'lsada aytaman,
+\nHayot nafsdan iborat emas!!!
+        </item>
+
+        <item>
+            Juftining yonida bir suyanch tirgak,
+\nG\'amni yo\'liqtirmas har lahza sergak,
+\nSevib sevilishga arzimoq uchun-
+\nAyolga baxt berar haqiqiy erkak.
+\n
+\nHar lahza hurmatin joyiga qo\'yar,
+\nYonidan ketmayin, erkalab suyar,
+\nU doyim mehribon, qalqon jonkuyar,
+\nAyolga baxt berar haqiqiy erkak.
+\nBemor bo\'lganida yonida bedor,
+\nTabiblardan ko\'proq joniga mador,
+\nXato qilganida bermayin ozor,
+\nAyolga baxt berar haqiqiy erkak.
+\n
+\nKo\'nglining eng aziz xonasi kabi,
+\nAsraydi singlisi, onasi kabi,
+\nAslo tugamayin quvonchlar safi,
+\nAyolga baxt berar haqiqiy erkak.
+\n
+\nYigitlik nomini ko\'tarib baland,
+\nKo\'rganlar qarasin havaslar bilan,
+\nArdoqlab yashaydi, sevadi dildan,
+\nAyolga baxt berar haqiqiy erkak.
+\n
+\nAhad Qayum yozdi ayollar uchun,
+\nBajarib muxlislar oldida burchin,
+\nAsraydi joniday har bitta sochin,
+\nAyolga baxt berar haqiqiy erkak.
+\n
+\nJuftining yonida bir suyanch tirgak,
+\nG\'amni yo\'liqtirmas har lahza sergak,
+\nSevib sevilishga arzimoq uchun-
+\nAyolga baxt berar haqiqiy erkak.
+        </item>
+
+        <item>
+            Muhabbatdan chalinsa soz,
+\nKuylar muborak bo\'lsin!
+\nKo\'ngil baxtdan etgay parvoz,
+\nTo\'ylar muborak bo\'lsin!!!
+\nBir yoqadan chiqarib bosh,
+\nTo\'planishib do\'st qarindosh,
+\nQuvonchdadir keksayu yosh,
+\nTo\'ylar muborak bo\'lsin!
+\nKo\'zingiz baxtdan kulsin,
+\nUyingiz nurga to\'lsin,
+\nXush kelibsiz baxt qasriga,
+\nTo\'ylar muborak bo\'lsin!
+\n
+\nShodligidan quvnar yurak,
+\nYuragimda shudir tilak,
+\nBu oqshom eng go\'zal ertak,
+\nTo\'ylar muborak bo\'lsin!
+\n
+\nMuborak bo\'lsin diydorlar,
+\nShirin suhbati xumorlar,
+\nQadri baland qadrdonlar,
+\nTo\'ylar muborak bo\'lsin!
+\n
+\nBugun shunday bir tantana,
+\nKo\'z o\'ngimda bayram mana,
+\nTabriklayman sizni yana,
+\nTo\'ylar muborak bo\'lsin!!!
+\nSizga hamma dilso\'zlarim,
+\nOydinchehra, gulyuzlarim,
+\nBaxtli bo\'ling azizlarim,
+\nTo\'ylar muborak bo\'lsin!!!
+        </item>
+
+        <item>
+            Isxor etsam sevgimni.
+\nSen o\'ynab kulasanmi?
+\nMen qo\'lingni sorasam.
+\nMenga yor bo\'lasanmi?
+\n
+\nMen senga oshiq boldim.
+\nSen buni bilasanmi?
+\nBaxsh etsam xayotimni.
+\nMenga yor bo\'lasanmi?
+\n
+\nMen quyoshdek porlasam.
+\nSen oydek to\'lasanmi?
+\nBaxtimga sherik bolib.
+\nMenga yor bo\'lasanmi?
+\n
+\nMajnundek sevsam seni.
+\nLaylidek sevasanmi?
+\nOq libos kiyib toyda.
+\nMenga yor bo\'lasanmi?
+\n
+\nSenga gul sovg\'a qilsam.
+\nGullarim olasanmi?
+\nShu gullardek ochilib.
+\nMenga yor bo\'lasanmi?
+        </item>
+
+        <item>
+            Siz erkak emassiz, siz hotin quli,
+\nBir kuni bo\'lasiz do\'zahning kuli.
+\nUnvoningiz bo\'lar shaytonning o\'g\'li,
+\nHotinni onadan afzal bilganlar.
+\n
+\nOnaning holidan olmaysiz habar,
+\nLek har kun guldasta olar u dilbar.
+\nOna ham do\'st erur, oma ham jigar,
+\nHotinni onadan afzal bilganlar.
+\n
+\nBir oyda bir bora so\'ramaysiz hol,
+\nOnangiz bu holdan goh garang, goh lol.
+\nOh sizga nasihat, saboq ham uvol,
+\nHotinni onadan afzal bilganlar.
+\n
+\nOnangiz shuncha yil chekkanda zahmat,
+\nQiyinmi ko\'rsatish unga muruvvat.
+\nU ham bu dunyoda olsinda rohat,
+\nHotinni onadan afzal bilganlar.
+\n
+\nOlloh sizdaylarga yog\'dirsin lanat,
+\nRosti ham qarg\'ishga arziysiz faqat.
+\nTezroq bering endi tavbaga navbat,
+\nHotinni onadan afzal bilganlar.
+        </item>
+
+        <item>
+            Sog\'inasan , hali yomon sog\'inasan,
+\nQachongacha yolg\'onlarga sig\'inasan,
+\nNishonini topolmagan kamon bo\'lib,
+\nNayza kabi men tomonga otilasan.
+\n
+\nKo\'nikasan, mensizlikka ko\'nikasan,
+\nSuratimdan ko\'z uzolmay tikilasan,
+\nPushaymondan tunlari qon yutib-yutib,
+\nTushlaringda ismim aytib chaqirasan.
+\n
+\nCho\'milasan, armonlarga cho\'milasan,
+\nGo\'dak kabi yulduzlarga termulasan,
+\nGunohlaring azob sochib qaytganida,
+\nSavollarga ko\'milasan, ko\'milasan.
+\n
+\nBulutlarga yolvorasan, yolvorasan,
+\nDardlaringni shamollarda sovurasan,
+\nHovurini bosolmagan tentakkinam,
+\nSog\'inasan, hali yomon sog\'inasan.
+\n
+\nO\'z qalbingni bilmam qanday yoritasan,
+\nTongni kutib yuragingni chiritasan,
+\nSingan umid, qadah kabi qo\'lni yirtar,
+\nOqshomlari barmoq tishlab qon yutasan.
+\n
+\nOstonangda qul bo\'lay deb yalinasan,
+\nSahro kabi hayolimni changitasan,
+\nMuhabbatda bir sinovni yengolmading,
+\nMag\'lub bo\'lding bu hayotning jangidasan.
+        </item>
+
+        <item>
+            Derlar quyosh kulgani yaxshi,
+\nDunyo nurga to‘lgani yaxshi.
+\nGo‘zallikning tengi yo‘q naqshi,
+\nAyol, ayol bo‘lgani yaxshi.
+\n
+\nTiriklik deb chorlasa yo‘llar,
+\nQop ko‘tarmish bu nozik qo‘llar.
+\nKaydasiz, ey, bag‘ritosh dillar,
+\nAyol, ayol bo‘lgani yaxshi.
+\n
+\nEy beparvo noshud erkaklar,
+\nAvlodlarga bo‘lmang ermaklar.
+\nAytmang tenglik degan ertaklar,
+\nAyol, ayol bo‘lgani yaxshi.
+\n
+\nDunyosini tor etmang uni,
+\nYomonlarga zor etmang uni,
+\nBozorlarda xor etmang uni,
+\nAyol, ayol bo‘lgani yaxshi.
+\n
+\nMayli taqdir izmida bo‘lsin,
+\nGoh yig‘lasin, gohida kulsin,
+\nBag‘ri o‘g‘il-qizlarga to‘lsin,
+\nAyol, ayol bo‘lgani yaxshi.
+\n
+\nFarzandlarga alla aytsinlar,
+\nTo‘planishib yalla aytsinlar.
+\nTezroq ayollikka kaytsinlar,
+\nAyol, ayol bo‘lgani yaxshi.
+        </item>
+
+        <item>Hayot nima o\'zi, bir dasta quvonch,
+\nKimgadir baxt berar,  kimgadir alam.
+\nHayot nima o\'zi, bir olam azob,
+\nBuni tariflashga, ojizdir qalam.
+\n
+\nHayot nima o\'zi, nima u hayot,
+\nBa\'zan g\'amginsizu, ba\'zida quvnoq.
+\nHayot nima o\'zi, aytaymi sizga,
+\nHayot nondan qolgan, bir dona uvoq.
+\n
+\nHayot nima o\'zi, o\'nqir-cho\'nqir yer,
+\nGohida ravon yo\'ling, notekis gohi.
+\nHayot nima o\'zi, daryodek ko\'z yosh,
+\nFarzand dog\'in ko\'rgan, onalar ohi.
+\n
+\nHayot nima o\'zi, hayot bu sevgi,
+\nIkki qalb bir-birin, uchratgan damlar.
+\nHayot nima o\'zi, baxtdan sarmastlik,
+\nMuhabbat ketidan, yurgan qadamlar.
+\n
+\nHayot nima o\'zi, ajoyib turmush,
+\nKun ora janjal deb, choynak uchishi.
+\nHayot nima o\'zi, turmushning mushti,
+\nIkki qalb bir-birin, unsiz quchishi.
+\n
+\nHayot nima o\'zi, totli bir ne\'mat,
+\nBu ne\'mat negizin, anglab yetaylik.
+\nHayot nima o\'zi, ollohdan tuxfa,
+\nBunday tuxfa uchun, shukur etaylik.
+        </item>
+
+        <item>
+            Osmonlar uzoq olis,
+\nO\'ylama, yetib bo\'lmas,
+\nOsmonlarni qo\'yib tur, jonim
+\nOjizman, senga qo\'llarim yetmas.
+\n
+\nBu dunyoda hammada  bir jon,
+\nLek boy kambag\'al deb ajratar inson,
+\nOqibat qolmadi, naxot oxirlar zamon,
+\nAytgin gulim, netarmiz biz, bo\'lmasa imkon.
+\n
+\nSensiz yashashni o\'ylasam hatto,
+\nBazida bir zumga yetmaydi xavo,
+\nAytgin menga,  aytgin ey xudo,
+\nNe taqdrimga bitting bo\'lmasa ravo.
+\n
+\nArmonlarni quchanmanmi endi,
+\nYorim deb o\'zgaga aytolamanmi?
+\nU ketsa, qanday yashayman endi,
+\nSo\'nggi bor yagonam diyolamanmi?
+\n
+\nBaxtli bo\'l deymanu, ichim yonar,
+\nSeni o\'zga bilan o\'ylasam,alam qilar,
+\nJonim meni kechir, yetmadi kuchim,
+\nMuhabbatim ojiz, armonlarga yuz tutar.
+\n
+\nSo\'nggi so\'zim aytarman senga,
+\nEndi ayrilamiz, bo\'larman judo,
+\nTaqdirimiz kulib boqmadi bizga,
+\nBaxtli bo\'l jonim xayr ALVIDO!
+        </item>
+
+        <item>
+            Ishonchingiz yolg`oni menman,
+\nSog`inchingiz gumoni menman.
+\nYurak yutib aytmayman dardim,
+\nYarim dilning yomoni menman.
+\n
+\nHayolimga yulduzlar sirdosh,
+\nHayotimga muhabbat yo`ldosh.
+\nAlam bilan bo`lganman kundosh,
+\nSoxta tilning armoni menman.
+\n
+\nUchar qushlar sog`inch shamoli,
+\nTunlari oy o`tinch jamoli.
+\nKo`rinmadi baxtning kamoli,
+\nTanho yo`lning hazoni menman.
+\n
+\nAylanadi hayolim biroq,
+\nSendan ketmas sof sevgim yiroq.
+\nQismatimmi azobli qirg`oq,
+\nBitta qo`lning vayroni menman.
+\n
+\nO`tib borar azobim bari,
+\nBaxtim ketdi negadur nari.
+\nManzilimmi armonning qa`ri,
+\nO`ng-u so`lning tomoni menman.
+\n
+\nTunlar qalbim dardining isi,
+\nO`kinchlarim sog`inchim izi.
+\nAsir yetdi armonning qizi,
+\nYakka ko`lning ummoni menman.
+\n
+\nJavohirning qalbi to`la qor,
+\nMuhabbatim - bo`ynimdagi dor.
+\nQalamdayin bo`lolmading yor,
+\nSo`lgan gulning sarsoni menman,
+\nO`lgan dilning hayroni menman,
+\nMuhabbatning gumoni menman!
+        </item>
+
+        <item>
+            Qo\'rqmasman darbadar gado bo\'lishdan ,
+\nQo\'rqmasman qirq yoshga kirmay o\'lishdan,
+\nQo\'rqitolmas meni xech narsa ammo,
+\nQo\'rqaman onamdan judo bo\'lishdan !!!
+\n
+\nQo\'rqmasman sevgisiz do\'stsiz qolishdan,
+\nQo\'rqmasman azobga yondosh bo\'lishdan,
+\nXech qanday dard meni qo\'rqitaolmas,
+\nQo\'rqaman onamdan judo bo\'lishdan !!!
+        </item>
+
+        <item>
+            Omad bir tulpordir, horitib qo\'yma,
+\nYosh joningni qiynab qaritib qo\'yma,
+\nDushmanlar qilmishin unutgin ammo,
+\nKechagi kuningni unutib qo\'yma.
+\n
+\nKimlarga qo\'l yetmas yulduzsan bugun,
+\nEng baland cho\'qqisan sen kimlar uchun,
+\nBir kuni hammasi o\'tar sen tushun,
+\nKechagi kuningni unutib qo\'yma.
+\n
+\nTomchi-tomchi yiqqan shuhrating bordir,
+\nEl ichida qancha hurmating bordir,
+\nBu kunga yetolmay qanchalar zordir,
+\nKechagi kuningni unutib qo\'yma.
+\n
+\nAziz bo\'lish boshqa, boy bo\'lish boshqa,
+\nAql bu qaramas keksayu yoshga,
+\nEl ichida do\'stim kerilma boshqa,
+\nKechagi kuningni unutib qo\'yma.
+\n
+\nAslida pul ham bir oddiy bir qog\'oz,
+\nJigarim, o\'zingni bosib ol biroz,
+\nOyoqlaring erdan uzilgani rost,
+\nKechagi kuningni unutib qo\'yma.
+\nBilaman, qanday ish boshlagan eding,
+\nYo Olloh ishlarim yurishsin derding,
+\nOg\'ir kunlar o\'tdi, baxtni ham ko\'rding,
+\nKechagi kuningni unutib qo\'yma.
+\n
+\nEsingdami qanday yurarding kecha,
+\nOradan vaqt ham ko\'p o\'tmabdi uncha,
+\nBilmabmiz o\'zgarib ketibsan ancha,
+\nKechagi kuningni unutib qo\'yma.
+        </item>
+
+        <item>
+            Kunlar o\'tmoqda sensiz,
+\nTunlar o\'tmoqda sensiz.
+\nKo\'zlaringni sog\'indim,
+\nSo\'zlaringni sog\'indim.
+\n
+\nYuragim mehringga zor,
+\nSendan boshqa kimim bor.
+\nYuragimdan ketmas g\'am,
+\nTug\'ilgan kunimda ham.
+\n
+\nSog\'inchlarga qilib qasd,
+\nBir bora ko\'rishsam bas.
+\nBunchalik berma ozor,
+\nSendan boshqa kimim bor.
+        </item>
+    </string-array>
 </resources>

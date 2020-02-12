@@ -2,6 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.android.sevgisherlari">
 
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="false"
+        android:xlargeScreens="false" />
+
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -15,7 +22,7 @@
             android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait"/>
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivity" android:screenOrientation="portrait"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -30,7 +37,14 @@
             android:screenOrientation="portrait"/>
         <activity android:name=".TabrikActivity" android:parentActivityName=".MainActivity"
             android:screenOrientation="portrait"/>
-
+        <activity android:name=".KulgiActivity" android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".AralashActivity" android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"
+            />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2026382780923969~2464741349" />
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />

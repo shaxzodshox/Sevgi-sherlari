@@ -204,6 +204,7 @@
             app:cardUseCompatPadding="true"
             >
             <LinearLayout
+                android:id="@+id/kulgili_btn"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:orientation="vertical"
                 android:layout_width="match_parent"
@@ -241,6 +242,7 @@
             app:cardUseCompatPadding="true"
             >
             <LinearLayout
+                android:id="@+id/aralash_btn"
                 android:layout_gravity="center_horizontal|center_vertical"
                 android:orientation="vertical"
                 android:layout_width="match_parent"
