@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:76473847287:android:abbe829fc367a61a91b2f2",
         "android_client_info": {
-          "package_name": "com.android.sevgisherlari"
+          "package_name": "com.shlsoft.sevgisherlari"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "76473847287-g5g0cf0gr8mk1a3k5jfnt85cji63hirt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.android.sevgisherlari",
+            "package_name": "com.shlsoft.sevgisherlari",
             "certificate_hash": "fcdfd1cf08faea00a5836dfdd2683a7ac47db4e5"
           }
         },

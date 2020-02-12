@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bg_lyric"
-    tools:context=".SherActivity">
+    tools:context="com.shlsoft.sevgisherlari.activities.SherActivity">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/title"
